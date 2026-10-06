@@ -10,7 +10,7 @@ story: the-abandoned-horizon
 | # | Title | POV | Status | Word Count | File |
 |---|-------|-----|--------|------------|------|
 | 1 | The Arrival | marcus-hayes | draft | 3067 | [chapter-01](chapter-01.md) |
-| 2 | The Sanctuary | elena-hayes | outline | 0 | [chapter-02](chapter-02.md) |
+| 2 | The Sanctuary | elena-hayes | draft | 3427 | [chapter-02](chapter-02.md) |
 | 3 | The Archive Vaults | sarah-keller | outline | 0 | [chapter-03](chapter-03.md) |
 | 4 | The First Echo | david-keller | outline | 0 | [chapter-04](chapter-04.md) |
 | 5 | The Hallway Stretch | jake-mercer | outline | 0 | [chapter-05](chapter-05.md) |
@@ -34,4 +34,4 @@ story: the-abandoned-horizon
 | 23 | The Escape | sarah-keller | outline | 0 | [chapter-23](chapter-23.md) |
 | 24 | Re-Stabilization | david-keller | outline | 0 | [chapter-24](chapter-24.md) |
 
-## Total Word Count: 3067
+## Total Word Count: 6494
