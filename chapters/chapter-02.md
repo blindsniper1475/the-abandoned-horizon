@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3427
+word-count: 3496
 ---
 
 # Chapter 2: The Sanctuary
@@ -36,13 +36,13 @@ word-count: 3427
 
 ## Chapter Text
 
-Nobody moved for a moment after the flicker. The fire had burned down to a lattice of orange coals, and the common room had gone the colour of old newsprint, and all five of them were looking down the hallway at the place where the light had failed.
+Nobody moved for a moment after the flicker. The fire had burned down to a lattice of orange coals, and the common room had gone the colour of old newsprint, and all five of them were looking down the hallway at the place where the light had failed — thirty yards off, near the east-wing door — where the amber now sat steady and innocent, as if it had never done anything but burn. "Bad lightbulb," Marcus had said. Jake had raised his mug to it. But sitting in chairs with a laugh still drying on their faces, none of them could make the phrase sound true a second time.
 
 "I'm not sleeping in this room," Elena said.
 
 It came out in her reporting voice — flat, factual, already written down — and she saw Marcus register it the way he always did: a small tightening at the corner of his jaw, the calculation of an argument he wasn't going to win.
 
-"There are dormitories in the residential wing," she went on. "Beds, doors that close. If we're staying — and we are staying, because the road out is under nine inches of snow as of four hours ago — then we're staying in rooms with doors."
+"There are dormitories in the residential wing," she went on. "Beds, doors that close. If we're staying — and we are staying, because the road out is under nine inches of snow and it will be under it for days — then we're staying in rooms with doors."
 
 "Seconded," David said, without looking up from his phone. The screen threw his face into hard blue relief. "There's no signal, no Wi-Fi, and a light just did something lights don't do. I'd like a door."
 
@@ -156,7 +156,7 @@ They crossed the greenhouse single file along the raised path, and the air got w
 
 Elena was the third one through it, and on the other side, in the cooler air of the residential corridor, something inside her chest shifted — a flicker of heat behind the sternum, gone before she could name it, followed a moment later by a dull, possessive ache settling in behind her eyes. She stopped walking. Marcus, two steps ahead, didn't notice; the others had gone on. She stood in the doorway with the wet warmth at her back and the corridor stretching ahead and thought, quite calmly: *That's new.*
 
-She was thirty-eight years old and she had driven nine hours through a white-out on bad coffee and four hours of sleep, and her body was simply sending in its account. It was travel. It was the truck, the cold, the altitude change she'd read about too late. She had a headache. People had headaches.
+She was thirty-eight years old and she had ridden nine hours in the cab of a truck through a white-out on bad coffee and four hours of sleep, and her body was simply sending in its account. It was travel. It was the truck, the cold, the altitude change she'd read about too late. She had a headache. People had headaches.
 
 *Eyes: ache. Chest: warm. Onset: after the greenhouse. Note and continue.* She capped the pen and walked on, and told no one.
 

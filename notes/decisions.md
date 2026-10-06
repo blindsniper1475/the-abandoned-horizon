@@ -15,3 +15,10 @@ A running record of story and project decisions, newest last. One entry per deci
 - **Five rooms:** Exactly five of fifty gallery doors are unlocked and made up — matching five respondents to a letter that went to sixty. 107 is made up, lamp left burning, no one claims it (reserved for Alex; never stated on page yet). Room assignments: M+E 103, David 105, Sarah 109, Jake last door before the stair.
 - **Duress first step:** Elena's post-greenhouse symptoms (chest warmth, ache behind the eyes) are logged as symptoms, attributed to travel, told to no one. Stage names and percentages are never spoken in prose — sensation only, per the locked prose rule.
 - **Chapter hook:** Question — *How did they know it would be five?*
+
+## 2026-10-06 — Chapter 1→2 continuity pass
+
+- **Seam reinforcement:** Ch 2's opening now names the flicker's location (thirty yards, near the east-wing door) and echoes Marcus's "bad lightbulb" line and Jake's toast from Ch 1's closing scene, so the same-night handoff is explicit.
+- **Fixes:** Removed Elena's "as of four hours ago" snow measurement in Ch 2 (she had no way to know; David's radar already covers the storm forecast). Corrected "she had driven nine hours" → "ridden nine hours in the cab of a truck" (Marcus drives; established in Ch 1).
+- **Metadata:** Ch 2 `word-count` updated to 3496 after edits.
+- **Note:** Dialect drift found between chapters (Ch 1 uses American spellings: color, yards; Ch 2 uses British: colour, metres, realise/recognise). Style sheet dialect is `unspecified`; flagged for an author decision, not yet normalized.
