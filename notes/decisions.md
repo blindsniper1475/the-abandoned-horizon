@@ -56,3 +56,14 @@ A running record of story and project decisions, newest last. One entry per deci
 - **Jake** backstory now carries the rehab-centers history explicitly (drugs and alcohol), matching Ch 1's new on-page mention.
 - **Continuity state:** new "Off-Stage Facts" section locks Chris, marriage lengths, Jake's sobriety, and all four occupations as reference-only canon.
 - **Word counts recomputed:** Ch 1: 3,295 / Ch 2: 3,513 (prose sections).
+
+
+## 2026-10-07 — Chapter 3 drafted (The Archive Vaults, Sarah POV) per author direction
+
+- **Author brief:** dossiers carry post-graduation info — relationship status, address, work status, notable events, family ties. Reading order locked by author: Jonas → David → Marcus → Elena → Sarah (second to last) → Alex (last). The J-name classmate is named **Jonas Fells** (author couldn't recall; flagged for confirmation).
+- **Retention scores locked** (clue file): Fells 88 (never came), Jake 85 (pre-existing Ch 21 canon), Sarah 84, Marcus 81, David 79, Elena 73, Alex 100. Band 73–88 preserved; several classmates scored higher than any of them and never came — planted as foreshadowing in-bible only.
+- **On-page handling of banned terms:** *retention* appears only inside diegetic artifacts (Sorensen's blackboard word, dossier column headers via numbers); no character or narration uses it. *Custodian* arrives through a document (Alex's occupation line), per style-sheet rule — Ch 6's formal naming stays intact. *Abscissa* appears once, on a brass property plate at chapter end, never spoken.
+- **Jake's folder deliberately unopened** — his number stays off-page; Ch 21 payoff protected.
+- **Chris Hayes** appears in Marcus's dossier as a family-tie line item (document context only; off-stage rule intact). Beats the parents hardest; kept one sentence, no speech about it.
+- New facts planted: Elena's *survived exposure event, site unknown, age 16* (hooks her Ch 2 greenhouse eye-ache; payoff owned by later drafts — flag for author); Sarah photographed annually since nineteen, marked *holds well*; Amarillo bar fight — never reported to any precinct — is on file anyway; fixed mid-draft from an impossible four-days-ago date because dossiers were updated pre-arrival; Alex's stack dated yesterday, red 100%.
+- Registry/state updated: chapters/_index (draft, 3,039 words), continuity state advanced to current-chapter 3 with knowledge rows, question evidence added, scene card filled (purpose/beats/continuity notes). Watch-words all zero in Ch 3 prose. Length 3,039 — low end of band; expansion pass optional.

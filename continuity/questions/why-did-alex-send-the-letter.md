@@ -22,6 +22,7 @@ Alex mailed a twentieth-anniversary reunion invitation to the entire graduating 
 - Once the White-Out closes, the school cannot be reached from outside.
 - Nothing in the letters mentions the storms, the school closing, or Alex himself.
 - Alex is the only person on the retention roster at 100%.
+- (Ch 3) His dossier is a twenty-year stack, address listed as *SITE*, updated the day before their arrival — he has been filing the alumni, including the five, continuously since graduation.
 
 ## Resolution Plan
 

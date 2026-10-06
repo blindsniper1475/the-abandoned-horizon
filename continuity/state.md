@@ -1,28 +1,28 @@
 ---
 type: continuity-state
 story: the-abandoned-horizon
-current-chapter: 2
+current-chapter: 3
 character-state:
   - character: marcus-hayes
     location: the-archive-school
     physical: healthy
-    emotional: wary, holding it together for the others, walking the gallery before sleep
+    emotional: wary; quietly rattled by his own dossier (Chris filed as a line item); decided to confront whoever keeps the files
   - character: elena-hayes
     location: the-archive-school
     physical: healthy (quiet eye ache and chest warmth after the greenhouse, attributed to travel, unreported)
-    emotional: unsettled, mapping, sitting on a question she can't yet write
+    emotional: unsettled; holds the copied percentages and an unasked question ('exposure event, age 16')
   - character: sarah-keller
     location: the-archive-school
     physical: healthy
-    emotional: quiet, watchful, relieved to have a door
+    emotional: quiet, watchful; shaken by the twenty years of photographs of herself she has never seen
   - character: david-keller
     location: the-archive-school
     physical: healthy
-    emotional: restless, doing arithmetic on the five made-up rooms
+    emotional: restless; running every explanation for the dossiers and finding none that holds water
   - character: jake-mercer
     location: the-archive-school
     physical: healthy
-    emotional: calm, photographing the rooms, at home in a way that unsettles the others
+    emotional: calm on the surface; afraid in a new way — his own folder is the thickest and he did not open it
 object-state:
   - artifact: alexs-key-ring
     owner: alex-voss
@@ -50,23 +50,38 @@ knowledge-state:
   - character: sarah-keller
     knows: the building's ventilation stops and starts all at once, not on any gradual cycle
     learned-in: chapter-02
+  - character: sarah-keller
+    knows: the archive vaults hold post-graduation dossiers on every alumnus, current within days, including the five's own lives down to unpublished secrets; each name carries a percentage (Jonas Fells 88, Sarah 84, Marcus 81, David 79, Elena 73); Alex Voss's file is a twenty-year stack dated yesterday, marked 100% in red
+    learned-in: chapter-03
+  - character: elena-hayes
+    knows: the dossier percentages and copied them into her notebook; Alex's folder is addressed SITE and updated the day before arrival
+    learned-in: chapter-03
+  - character: david-keller
+    knows: his therapy referral — never told to anyone — appears in the school's file
+    learned-in: chapter-03
+  - character: marcus-hayes
+    knows: Chris appears in the family-ties line of his dossier; his unreported Amarillo bar fight is on file
+    learned-in: chapter-03
+  - character: jake-mercer
+    knows: his own folder exists and is the thickest in the drawer; he did not open it
+    learned-in: chapter-03
 ---
 
 # Continuity State
 
 ## Current Story State
 
-Five classmates are spending the first night at the Archive School during the White-Out. The building is pristine, warm, and lit — and it was already being maintained before they arrived: a hand-kept library ledger dated eleven days ago, greenhouse vines cut back within days, and exactly five of fifty dormitory rooms made up for a letter that went to sixty. Elena has noticed; nobody has named it yet. Alex Voss — the Custodian — is present but not visible.
+Day two of the storm. On the first night the five found the school impossibly maintained — a hand-kept library ledger dated eleven days ago, cut-back greenhouse vines, five of fifty dorm rooms made up for a letter that went to sixty. That morning they went down the service stairs off the library into the archive vaults and found post-graduation dossiers on every alumnus, current within days: relationship status, address, occupation, notable events, family ties — their own private lives filed by someone, each name carrying a percentage (Fells 88, Sarah 84, Marcus 81, David 79, Elena 73). Alex Voss's file is a twenty-year stack, addressed SITE, dated yesterday, marked 100% in fresh red ink. They have carried the folders upstairs and intend to find whoever keeps them. Nobody has said what the numbers might mean.
 
 ## Character State
 
 | Character | Location | Physical State | Emotional State | Knowledge |
 |-----------|----------|----------------|-----------------|-----------|
-| marcus-hayes | the-archive-school | Healthy | Wary; walked the gallery before sleep | The greenhouse is maintained by someone unknown |
-| elena-hayes | the-archive-school | Healthy; unreported eye ache and chest warmth since the greenhouse | Unsettled; mapping; holding an unanswered question | Ledger kept by someone 11 days ago; five rooms of fifty made up; her map contradicts the geography |
-| sarah-keller | the-archive-school | Healthy | Quiet, watchful, relieved to have a door | The ventilation stops and starts all at once |
-| david-keller | the-archive-school | Healthy | Restless; doing the arithmetic on five made rooms | The storm is abnormal; nobody is paying the school's power bill |
-| jake-mercer | the-archive-school | Healthy | Calm; photographing the rooms | Feels at home in a way that unsettles the others |
+| marcus-hayes | the-archive-school | Healthy | Wary; rattled by his own dossier (Chris as a line item); decided to find the bookkeeper | Greenhouse maintained by someone unknown; his unreported Amarillo bar fight is on file; Chris appears in his dossier |
+| elena-hayes | the-archive-school | Healthy; eye ache returned in the vaults, still unreported | Unsettled; holds the copied percentages; not yet asking about her own file's 'exposure event, age 16' | Ledger 11 days old; five rooms of fifty; map contradicts geography; dossier percentages; Alex's file dated yesterday |
+| sarah-keller | the-archive-school | Healthy | Quiet, watchful; shaken by twenty years of photographs of herself she has never seen | Ventilation stops/starts all at once; the dossiers and her percentage (84); photographed annually since nineteen |
+| david-keller | the-archive-school | Healthy | Restless; ran every explanation for the dossiers, none holds water | Storm abnormal; no power bill; his undisclosed therapy referral is in the school's file; his percentage (79) |
+| jake-mercer | the-archive-school | Healthy | Calm on the surface; afraid in a new way | His folder is the thickest in the drawer; he did not open it; still feels at home in a way that unsettles the others |
 
 ## Object State
 
@@ -92,6 +107,11 @@ Five classmates are spending the first night at the Archive School during the Wh
 | marcus-hayes | The greenhouse is maintained — vines cut back within days, power on nobody's bill | chapter-02 |
 | david-keller | The blizzard is not behaving like weather | chapter-01 |
 | sarah-keller | The building's ventilation stops and starts all at once | chapter-02 |
+| sarah-keller | The vaults hold current dossiers on everyone, with percentages beside each name; hers includes professional photographs taken annually since she was nineteen | chapter-03 |
+| elena-hayes | The six dossier percentages (Fells 88, Sarah 84, Marcus 81, David 79, Elena 73, Jake unread); Alex's file updated the day before arrival | chapter-03 |
+| david-keller | His undisclosed therapy referral is in the school's file | chapter-03 |
+| marcus-hayes | Chris appears in his dossier as a family tie; his unreported Amarillo bar fight (three winters back) is filed in the school record | chapter-03 |
+| jake-mercer | His own folder exists and is the thickest in the drawer; he did not open it | chapter-03 |
 
 ## Upkeep
 

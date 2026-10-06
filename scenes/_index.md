@@ -11,7 +11,7 @@ story: the-abandoned-horizon
 |---------|-------|-------|-----|--------|------|
 | chapter-01 | 1 | The Arrival | marcus-hayes | draft | [chapter-01-scene-01](chapter-01-scene-01.md) |
 | chapter-02 | 1 | The Sanctuary | elena-hayes | draft | [chapter-02-scene-01](chapter-02-scene-01.md) |
-| chapter-03 | 1 | The Archive Vaults |  | outline | [chapter-03-scene-01](chapter-03-scene-01.md) |
+| chapter-03 | 1 | The Archive Vaults | the-archive-school | drafted | [chapter-03-scene-01](chapter-03-scene-01.md) |
 | chapter-04 | 1 | The First Echo |  | outline | [chapter-04-scene-01](chapter-04-scene-01.md) |
 | chapter-05 | 1 | The Hallway Stretch |  | outline | [chapter-05-scene-01](chapter-05-scene-01.md) |
 | chapter-06 | 1 | The Gatekeepers |  | outline | [chapter-06-scene-01](chapter-06-scene-01.md) |

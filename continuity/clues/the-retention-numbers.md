@@ -18,6 +18,8 @@ arcs:
 
 The files in the archive vaults score every subject on **retention** — their compatibility with the Void. Alex Voss sits at 100%. The five sit between 73% and 88%. Several people scored higher than any of them and never came.
 
+**Locked per-person scores (author canon, 2026-10-07):** Jonas Fells 88% (highest of the classmates; never came), Jake Mercer 85% (locked — Ch 21 payoff), Sarah Keller 84%, Marcus Hayes 81%, David Keller 79%, Elena Hayes 73% (lowest — she holds least / frays first). Reading order in Ch 3: Jonas, Marcus, David, Elena, Sarah (second to last), Alex (last).
+
 ## Planting Plan
 
 Plant in Ch 3 with the dossiers. The friends read their own numbers and assume the number means *how valuable they are*. Play it straight — no musical sting, no explanation, no character underlining it. Elena writes the numbers down in the log.
