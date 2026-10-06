@@ -74,6 +74,13 @@ Five classmates are spending the first night at the Archive School during the Wh
 |----------|-------|----------|--------|
 | alexs-key-ring | alex-voss | the-archive-school | hidden |
 
+## Off-Stage Facts (locked canon — reference-only, never introduce live)
+
+- **Chris Hayes, 13** — Marcus and Elena's son; staying with another family's kids at a summer camp in Texas while his parents are at the school. The camp is why the Hayeses could answer Alex's letter. Referenced on page in Ch 1 (firelit conversation). Off-stage until the author decides otherwise: referenced by the parents only, never introduced live.
+- **Marriage lengths:** Hayes ~15 years (married the summer after graduation); Keller ~5 years. No children among the Kellers or Jake.
+- **Jake Mercer:** years in and out of rehab centers for drugs and alcohol; completely clean since roughly five years ago; eleven months sober by his own count at story start. Never preachy about it.
+- **Occupations:** Marcus — Texas Ranger, working practically since high school (posts → trail crews/detail → training cadre). Elena — reporter/investigator, career started a little after the wedding (~14 years). David — data/systems analyst, recruited practically out of high school by a huge industry ("a firewall with a payroll"). Sarah — fashion model right after high school → brand work → funding artists.
+
 ## Knowledge State
 
 | Character | Knows | Learned In |

@@ -50,7 +50,7 @@ Quick, exacting, and constitutionally unable to let a problem alone. David think
 
 ## Backstory
 
-David married Sarah not long after graduation and moved to Oregon, where he worked as a systems and security analyst for a company he described to his friends as "a firewall with a payroll." He was good, and he knew it. The one thing that never fit his model was his own memory of high school — a gap with no error log, no cause, no fix. He has read about it, theorized about it, and told no one.
+David married Sarah five years ago, and settled in Oregon, where he worked as a systems and security analyst for the industry that had recruited him practically out of high school — a company he described to his friends as "a firewall with a payroll." He was good, and he knew it. The one thing that never fit his model was his own memory of high school — a gap with no error log, no cause, no fix. He has read about it, theorized about it, and told no one. He and Sarah have no children.
 
 ## Motivations & Goals
 
@@ -80,7 +80,8 @@ Fast, precise, faintly impatient. He explains things in systems language whether
 
 | When | Event | Relevance |
 |------|-------|-----------|
-| 20 years ago | Marries Sarah; leaves Alaska | Chooses the world of clean systems |
-| 20 years ago – present | Security analyst; never lets a problem go | Trains the lie to a fine edge |
+| 20 years ago | Graduates; recruited practically out of high school by a huge industry as a data analyst | Chooses the world of clean systems before anyone his age gets one |
+| ~15 years ago | Starts dating Sarah, back home from the road | The gap with no error log widens |
+| 5 years ago | Marries Sarah; settles in Oregon | Chooses the world of clean systems |
 | Present | Opens Alex's reunion letter | A fault he cannot ignore |
 | Present | First loop — starts mapping the decay | The map is not the territory |

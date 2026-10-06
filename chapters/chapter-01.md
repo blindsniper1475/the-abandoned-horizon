@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: revelation
-word-count: 3077
+word-count: 3295
 ---
 
 # Chapter 1: The Arrival
@@ -39,7 +39,7 @@ word-count: 3077
 
 The blizzard was not weather so much as a wall — a physical weight of white that pressed against the windshield of the all-terrain truck and erased the world beyond the glass. There was no horizon, no road ahead, only the slow sweep of the wipers carving brief tunnels through the falling snow before the white closed over them again. Inside the cab, the air was a thick soup of stale coffee, old leather, and the sharp metallic breath of a heater losing its argument with Alaska.
 
-Marcus drove. He always drove — not because anyone had asked him to, but because he was the kind of man who trusted his own hands on a wheel more than he trusted anyone else's. His knuckles were loose on the leather, his eyes steady in the mirror of the road behind them, which had already vanished. Beside him, Elena sat in the passenger seat with her wool-lined parka still buttoned to the chin, a notebook open on her knee and a pen capped in her fist. She wasn't writing. When Elena wasn't writing, Marcus had learned in twenty years of marriage, it meant she was worried.
+Marcus drove. He always drove — not because anyone had asked him to, but because he was the kind of man who trusted his own hands on a wheel more than he trusted anyone else's. His knuckles were loose on the leather, his eyes steady in the mirror of the road behind them, which had already vanished. Beside him, Elena sat in the passenger seat with her wool-lined parka still buttoned to the chin, a notebook open on her knee and a pen capped in her fist. She wasn't writing. When Elena wasn't writing, Marcus had learned in fifteen years of marriage, it meant she was worried.
 
 In the back, three figures were wedged between crates and duffel bags that rose nearly to the ceiling of the truck. Sarah sat in the middle, poised and still, her dark coat brushed free of snow, her eyes on the white nothing outside the side window. David was pressed against the far door, his smartphone held up in one gloved hand, thumbing through weather radar that showed nothing but a solid bruise of purple over the entire county. Jake sat nearest the cab, his camera bag strapped across his chest even indoors, his long frame folded around it like a man protecting a sleeping child.
 
@@ -69,7 +69,7 @@ The voice was the last thread of the ordinary world — a man in a warm studio s
 
 He thought about the letter. Alex's letter, arriving out of nowhere six weeks ago — thick cream paper, handwritten, no return address, the postmark smeared. *The school is reopening. One night. Come.* A class of sixty, and only five of them had written back. Five out of sixty. Marcus had read Elena's reply before she sealed it — just a date, a time, and a single line: *We'll be there.* He had driven them north in a truck packed like a lifeboat because some old, wordless part of him had understood, before his conscious mind did, that this was not an invitation. It was a summons.
 
-*I shouldn't have come,* he thought, and the thought arrived old and worn, like something he'd been carrying in his pocket for years. *I should have stayed in Texas. I should have stayed where the road was straight and the lines were clear.* But he looked at Elena — at the set of her jaw, the pen still capped, the notebook still empty — and he knew he would have come anyway. He would have driven off any cliff she pointed at. Twenty years of marriage had taught him that much about himself.
+*I shouldn't have come,* he thought, and the thought arrived old and worn, like something he'd been carrying in his pocket for years. *I should have stayed in Texas. I should have stayed where the road was straight and the lines were clear.* But he looked at Elena — at the set of her jaw, the pen still capped, the notebook still empty — and he knew he would have come anyway. He would have driven off any cliff she pointed at. Fifteen years of marriage had taught him that much about himself.
 
 "I keep thinking about the gym floor," Sarah said suddenly, from the back. Her voice was low, almost a murmur, as if she were talking to herself and had simply forgotten there were others in the cab. "The way the light came through the high windows in the morning. Gold on the varnish. I used to sit on the bleachers before class and watch it move across the floor." She paused. "I don't remember what I was thinking about. But I remember the light."
 
@@ -133,7 +133,7 @@ They shed their coats, and the layers underneath became visible for the first ti
 
 They sat. Elena found a tin of coffee in the kitchen — still good, sealed, dated eighteen months ahead — and boiled water on the stove, and they passed around chipped ceramic mugs and talked.
 
-They talked the way people talk when they have been apart too long and know it: quickly, in layers, skipping the boring parts. Marriages — Marcus and Elena, solid and weathered; David and Sarah, three years into theirs, still finishing each other's sentences about work the way people do when the job is the one thing a marriage can safely be about. Jake, who had never once stayed anywhere. Careers built and abandoned. Parents buried. Children raised in other states, other time zones, lives of their own. Twenty years compressed into ninety minutes of firelit conversation, and underneath it all, the thing nobody said out loud: that a class of sixty had received a letter, and only five chairs had been filled.
+They talked the way people talk when they have been apart too long and know it: quickly, in layers, skipping the boring parts. Marriages — Marcus and Elena, fifteen years solid and weathered; David and Sarah, five years into theirs, still finishing each other's sentences about work the way people do when the job is the one thing a marriage can safely be about. Chris, thirteen, at summer camp down in Texas with another family's kids while his parents drove nine hours into a white-out — the reason Marcus and Elena could say yes at all. Jake, who had never once stayed anywhere, and who had been clean for eleven months, which he mentioned exactly once, lightly, the way you'd mention a passport renewal. Careers built and abandoned. Parents buried. Twenty years compressed into ninety minutes of firelit conversation, and underneath it all, the thing nobody said out loud: that a class of sixty had received a letter, and only five chairs had been filled.
 
 Marcus sipped his coffee and let the voices wash over him, and thought: *We're here. We actually came.*
 

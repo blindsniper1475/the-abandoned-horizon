@@ -50,7 +50,7 @@ Meticulous and relentlessly curious. Elena notices the misplaced chair, the seco
 
 ## Backstory
 
-Elena married Marcus the summer after graduation and went with him to Texas. She built a career as a reporter and investigator — bylines for papers and magazines, but the work underneath was closer to detective work: public records, land disputes, missing-persons files that stopped at the county line. She was known for long, careful pieces about local histories that everyone else had given up on — old schools, closed factories, families who vanished from the record — and for a habit of pulling a single filing number until the whole folder came loose. She never told Marcus why those stories, in particular. She spent twenty years investigating her own hometown without ever being able to say, out loud, that she could not remember it.
+Elena married Marcus the summer after graduation — fifteen years ago — and went with him to Texas. She built her career a little after that, as a reporter and investigator — bylines for papers and magazines, but the work underneath was closer to detective work: public records, land disputes, missing-persons files that stopped at the county line. She was known for long, careful pieces about local histories that everyone else had given up on — old schools, closed factories, families who vanished from the record — and for a habit of pulling a single filing number until the whole folder came loose. She never told Marcus why those stories, in particular. She spent her whole career investigating her own hometown without ever being able to say, out loud, that she could not remember it. She and Marcus have one son, Chris, thirteen — currently at a summer camp in Texas with another family's kids, which is the only reason the Hayeses could answer Alex's letter at all.
 
 ## Motivations & Goals
 
@@ -60,7 +60,7 @@ Elena married Marcus the summer after graduation and went with him to Texas. She
 
 ## Location References
 
-- the-archive-school — the subject of twenty years of unfinished research
+- the-archive-school — the subject of her whole career of unfinished research
 
 ## Voice & Speech Patterns
 
@@ -80,7 +80,9 @@ Precise and probing. She asks more questions than she answers and presses on the
 
 | When | Event | Relevance |
 |------|-------|-----------|
-| 20 years ago | Marries Marcus; leaves Alaska | Chooses the world where nothing is missing |
-| 20 years ago – present | Reporter chasing forgotten local histories | Unconscious research into her own blank |
-| Present | Opens Alex's reunion letter | The story comes to her |
+| 20 years ago | Graduates; four years of classes end with the forgetting | The blank begins at the source |
+| 15 years ago | Marries Marcus; leaves Alaska for Texas | Chooses the world where nothing is missing |
+| ~14 years ago | Starts her reporting/investigator career, a little after the wedding | Unconscious research into her own blank |
+| ~13 years ago | Son Chris born | The household the letter pulls them away from |
+| Present | Opens Alex's reunion letter (Ch 1); Chris off at summer camp makes the trip possible | The story comes to her |
 | Present | First loop — she starts the log | The record becomes the way out |

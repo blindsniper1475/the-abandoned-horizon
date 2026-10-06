@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3496
+word-count: 3513
 ---
 
 # Chapter 2: The Sanctuary
@@ -52,7 +52,7 @@ It came out in her reporting voice — flat, factual, already written down — a
 
 Sarah folded her scarf into her bag with three precise movements and stood. "Which way?"
 
-Elena looked at her map. She had drawn it in the common room over the first hour — the entrance hall, the corridor they'd come in by, the tower they were sitting in now — and it was already an act of faith. The school had been closed for fifteen years. There were no plans online, no campus directory, nothing in her twenty years of research files except a mailing address and a photograph of the front gate in summer. So the map was her own, drawn from memory that was twenty years old and from a building she had never actually been permitted to roam. She had been a student here. That was the part she could never quite reconcile: she had walked these halls for four years, and she could not remember where anything was.
+Elena looked at her map. She had drawn it in the common room over the first hour — the entrance hall, the corridor they'd come in by, the tower they were sitting in now — and it was already an act of faith. The school had been closed for fifteen years. There were no plans online, no campus directory, nothing in her fifteen years of research files except a mailing address and a photograph of the front gate in summer. So the map was her own, drawn from memory that was twenty years old and from a building she had never actually been permitted to roam. She had been a student here. That was the part she could never quite reconcile: she had walked these halls for four years, and she could not remember where anything was.
 
 "East," she said. "The residential wing shares a covered walkway with the academic block. If the old campus map in the yearbook is right —"
 
@@ -116,7 +116,7 @@ Elena crossed to him. The ledger page was dated eleven days ago. The entries ben
 
 Eleven days. No names she knew. No explanation of who had written them or why a ledger in a closed school was still being kept by hand.
 
-She copied four of the lines into her notebook — names, times — because copying was what she did when her pulse was up, and because somewhere in her twenty years of files there was a box of documents about this place and these names might belong to it. Then she closed the glass dome gently over the page, the way you close a cage.
+She copied four of the lines into her notebook — names, times — because copying was what she did when her pulse was up, and because somewhere in her fifteen years of files there was a box of documents about this place and these names might belong to it. Then she closed the glass dome gently over the page, the way you close a cage.
 
 "We're not staying in here," Marcus said.
 

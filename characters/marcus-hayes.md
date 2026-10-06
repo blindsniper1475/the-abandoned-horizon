@@ -40,7 +40,7 @@ ghost-wound: "He walked out of the school twenty years ago and let it erase him.
 
 ## Appearance
 
-Six-foot-two and broad-shouldered, with the weathered look of a man who has spent fifteen years outdoors in a hard country. Short-cropped hair going gray at the temples, a close beard he trims without vanity, and hands thick with callus. A pale scar crosses his left shoulder, older than the marriage. He carries himself like a door that has been closed for years — still, heavy, hard to move.
+Six-foot-two and broad-shouldered, with the weathered look of a man who has spent fifteen years outdoors in a hard country. Short-cropped hair going gray at the temples, a close beard he trims without vanity, and hands thick with callus. A pale scar crosses his left shoulder, older than the marriage — a horse accident, early on the trail, the kind of injury the job is supposed to produce. He carries himself like a door that has been closed for years — still, heavy, hard to move.
 
 ## Personality & Traits
 
@@ -51,7 +51,7 @@ Stoic and steady to the point of seeming cold. He speaks slowly and means every 
 
 ## Backstory
 
-Marcus and Elena married the summer after graduation and left Alaska for Texas, and for twenty years that was the whole story. He found his calling as a police officer — small-town precinct first, then state, then the department's training cadre — and built a life measured in procedures and held lines. It was never glamour work. It was shifts, reports, and being the one who went in first. What he has never been able to explain — to Elena, or to himself — is why the years before Texas will not sit still in his memory. He remembers the shape of the school, the smell of the halls, a handful of faces. Everything else arrives out of order, like a photograph cut into strips and shuffled.
+Marcus and Elena married the summer after graduation and left Alaska for Texas, and that was the whole story. He went straight to work practically out of high school — a Texas Ranger, first on small posts, then on the trail crews and detail work, then the department's training cadre — and built a life measured in procedures and held lines. It was never glamour work. It was shifts, reports, and being the one who went in first. Fifteen years in, they have a son, Chris, thirteen. What he has never been able to explain — to Elena, or to himself — is why the years before Texas will not sit still in his memory. He remembers the shape of the school, the smell of the halls, a handful of faces. Everything else arrives out of order, like a photograph cut into strips and shuffled.
 
 ## Motivations & Goals
 
@@ -79,7 +79,8 @@ Economical and low. Short declaratives. He gives orders as statements, never req
 
 | When | Event | Relevance |
 |------|-------|-----------|
-| 20 years ago | Graduates; marries Elena; leaves Alaska | The forgetting begins |
-| 20 years ago – present | Cop in Texas; twenty years of a life that feels borrowed | Establishes the lie |
-| Present | Opens Alex's reunion letter | Returns to the source |
+| 20 years ago | Graduates; goes straight to work practically out of high school | The forgetting begins at the source |
+| 15 years ago | Marries Elena; they leave for Texas; Ranger career — posts, trail crews, detail work, training cadre | Establishes the lie: a fifteen-year life that feels borrowed |
+| ~13 years ago | Son Chris born | The household the letter pulls them away from |
+| Present | Opens Alex's reunion letter (Ch 1) | Returns to the source |
 | Present | First loop — the blizzard seals the school | The line stops moving |

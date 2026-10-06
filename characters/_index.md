@@ -41,7 +41,7 @@ story: the-abandoned-horizon
 
 *No blood-family links exist among the six principals — do not invent any. Established collateral details only:*
 
-- **Hayes household (Texas):** Marcus & Elena, married ~20 years, no children mentioned on page; Ch 1's "children raised in other states, other time zones" refers to the wider class, not the couples — keep it that way unless the author decides otherwise. Marcus's grandmother (mentioned Ch 1: lost a season to a blizzard that wouldn't end) is the only named-adjacent ancestor; she may be referenced obliquely, never introduced live.
-- **Keller household (Oregon):** David & Sarah, married ~3 years, no children. Sarah funds artists; David's employer stays unnamed ("a firewall with a payroll").
+- **Hayes household (Texas):** Marcus & Elena, married fifteen years. One son: **Chris, 13** — off-page, staying with another family's kids at a summer camp in Texas while his parents drive to Alaska; the camp is the reason the Hayeses could answer Alex's letter at all (named on page in Ch 1–2). Chris must stay off-stage for now: he may be referenced by the parents, never introduced live, and no plot may hinge on him until the author decides otherwise. Marcus's grandmother (mentioned Ch 1: lost a season to a blizzard that wouldn't end) is the only named-adjacent ancestor; she may be referenced obliquely, never introduced live.
+- **Keller household (Oregon):** David & Sarah, married five years, no children. Sarah funds artists; David's employer stays unnamed ("a firewall with a payroll").
 - **Jake Mercer:** no spouse, no fixed address, family unreferenced. Do not give him one casually.
 - **Alex Voss:** no known family. The school replaced it. Nothing outside the school may claim him.

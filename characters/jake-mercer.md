@@ -50,7 +50,7 @@ Easy-going and almost aggressively unhurried. Jake moves through the world like 
 
 ## Backstory
 
-Jake did not marry anyone and did not move anywhere in particular. After graduation he drifted west, got into weed and then into everything else, and found the one discipline that ever held him: a camera. He became a freelance photographer, good enough to live on and too unruly to be employed by anyone. His memories of high school are the sharpest of the group's — but they are all pictures. He remembers faces in frames and cannot remember a single conversation.
+Jake did not marry anyone and did not move anywhere in particular. After graduation he drifted — every state eventually, no fixed address — got into weed and then into everything else, and spent years in and out of rehab centers for drugs and alcohol. He found the one discipline that ever held him: a camera. He became a freelance photographer, good enough to live on and too unruly to be employed by anyone. About five years ago he got completely clean, and has stayed that way — eleven months sober as of this winter by his own count, which is how he measures it now: chips, meetings, the dates on the coins he carries. His memories of high school are the sharpest of the group's — but they are all pictures. He remembers faces in frames and cannot remember a single conversation.
 
 ## Motivations & Goals
 
@@ -82,5 +82,6 @@ Loose, warm, unhurried. He talks in images and tangents, and he is the only one 
 |------|-------|-----------|
 | 20 years ago | Graduates; drifts; no fixed address | Never put down the roots that would erase him |
 | 20 years ago – present | Freelance photographer; the sharpest but emptiest memories of the five | The witness who was never in the frame |
-| Present | Opens Alex's reunion letter — the only one who felt no pull at all, and came anyway | Comes for the people, not the place |
+| ~5 years ago | Gets completely clean after years in and out of rehab centers | The drift ends; the counting begins |
+| Present (11 months sober) | Opens Alex's reunion letter — the only one who felt no pull at all, and came anyway | Comes for the people, not the place |
 | Present | First loop — starts shooting everything | The record begins |

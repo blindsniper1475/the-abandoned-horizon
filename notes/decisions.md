@@ -44,3 +44,15 @@ A running record of story and project decisions, newest last. One entry per deci
 - **World overview:** written in worldbuilding/_index.md.
 - **Scene cards:** POV + location fields filled for Ch 3–24 from chapter frontmatter rotation.
 - **Chapter 1 frontmatter:** `time: night` set (arrival through firelight is one night). Word counts recomputed after edits (ch1 ~3120, ch2 see frontmatter).
+
+## 2026-10-07 — Canon reconciliation pass (rethink of Ch 1–2 against new details)
+
+**Note:** the previous session's summary claimed a commit (`52490a6`) applying Chris/Ranger/five-year canon; that commit does not exist in this repo's history and the files never contained those changes. This pass applies the full canon for real, from the current file state.
+
+- **Chris confirmed by author:** Marcus & Elena's son is named **Chris, 13**, off at summer camp in Texas with another family's kids — the reason the Hayeses could say yes to Alex's letter. Added to Ch 1's firelit-conversation paragraph (the only safe on-page slot: Ch 2's POV scenes have no natural opening, and Marcus's dialogue there is about the school). Family-tree guardrail rewritten: Chris may be referenced by parents, never introduced live, no plot hinges on him until the author decides. The old "Alex is mentioned-only until Ch 6" rule is unaffected — Chris is a different character; the bible's "Alex" remains the Custodian.
+- **Marcus = Texas Ranger restored** (author's correction): character sheet backstory + timeline + style-sheet voice entry now say Ranger — small posts, trail crews/detail work, training cadre; working practically since high school. His shoulder scar given an in-canon origin (horse accident on the trail).
+- **Marriage math fixed everywhere:** Hayes ~15 years (married the summer after graduation), Keller ~5 years. Ch 1: both "twenty years of marriage" → "fifteen years"; firelit paragraph now says fifteen/five (was three). Ch 2: Elena's research files twenty → fifteen years (×2). Character timelines rebuilt: David married five years ago (recruited practically out of high school); Sarah started modeling right after high school, married five years ago; Jake clean ~5 years ago, eleven months sober by his own chip count (author-approved reading: rehab stints through most of the drift years, final sobriety recent).
+- **Elena's career** dated: started a little after the wedding (~14 years in); her ghost-wound/location lines reworded so "twenty years" no longer implies a twenty-year career.
+- **Jake** backstory now carries the rehab-centers history explicitly (drugs and alcohol), matching Ch 1's new on-page mention.
+- **Continuity state:** new "Off-Stage Facts" section locks Chris, marriage lengths, Jake's sobriety, and all four occupations as reference-only canon.
+- **Word counts recomputed:** Ch 1: 3,295 / Ch 2: 3,513 (prose sections).

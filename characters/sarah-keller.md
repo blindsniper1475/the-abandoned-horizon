@@ -50,7 +50,7 @@ Quietly, constantly observant. Sarah watches more than she speaks and remembers 
 
 ## Backstory
 
-Sarah and David married young and moved to Oregon, where she built a career out of being seen — modeling, then brand work, then funding the work of people who made beautiful things. She was good at it, and it cost her something she could not name. She can describe the last twenty years in perfect visual detail and cannot remember a single thing she felt about any of it.
+Sarah started being photographed right after high school — small local jobs first, then the agencies, then a career out of being seen: modeling, then brand work, then funding the work of people who made beautiful things. She and David married five years ago and settled in Oregon; she can describe the last twenty years in perfect visual detail and cannot remember a single thing she felt about any of it. They have no children.
 
 ## Motivations & Goals
 
@@ -80,7 +80,7 @@ Understated and precise, with a habit of describing how things look instead of h
 
 | When | Event | Relevance |
 |------|-------|-----------|
-| 20 years ago | Marries David; leaves Alaska | Chooses the world of surfaces |
-| 20 years ago – present | Modeling, then brand funding | Trains the flaw for two decades |
+| 20 years ago | Graduates; leaves Alaska for the agencies | Chooses the world of surfaces |
+| 5 years ago | Marries David; settles in Oregon | Chooses the one person who looks at her, not the image |
 | Present | Opens Alex's reunion letter | The place she cannot picture calls her back |
 | Present | First loop — notices the school looks too sharp | Sharpness is the tell |
