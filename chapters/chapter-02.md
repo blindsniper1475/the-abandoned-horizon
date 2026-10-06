@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3513
+word-count: 3654
 ---
 
 # Chapter 2: The Sanctuary
@@ -172,17 +172,17 @@ Marcus went down the gallery trying doors. The first was locked. The second was 
 
 Nobody answered that, because the arithmetic answered it for them, and none of them liked where it came out.
 
-They split to claim them — Marcus and Elena taking 103 together, David and Sarah taking 105 and 109 with the good sense not to joke about the wall between them, Jake taking the last made-up door before the stair and photographing it as he went: the folded linen, the empty desk, the brass number on the inside of the frame.
+They split to claim them — Marcus and Elena taking 103 together, David and Sarah taking 105 together, because they were married and this was a place that knew their names, and nobody had the good sense to joke about it, Jake taking the last made-up door before the stair and photographing it as he went: the folded linen, the empty desk, the brass number on the inside of the frame. It wasn't trust in the building. It was the opposite — the one familiar thing in an unfamiliar place, a spouse's breathing in the dark, a hand you could find without looking. Two couples, two doors that closed from the inside, and Jake down the gallery with his own. That was the arrangement everybody made without saying it out loud, and it held the way a rope holds when everyone agrees not to test it.
 
 "For the record," he said, catching Elena watching.
 
 "That's my line," Elena said, almost smiling.
 
-One made-up room stood empty — 107, midway, its lamp burning, its bed waiting for nobody. Sarah paused outside it with her hand on the doorframe, as if she had half-expected someone to be in it, and then went on to 109 without a word. Nobody switched its lamp off.
+Two made-up rooms stood empty — 107, midway, and 109 beyond it, their lamps burning, their beds waiting for nobody. Sarah paused outside 107 with her hand on the doorframe, as if she had half-expected someone to be in it, and then went on to 105 without a word. Nobody switched their lamps off.
 
 She put her bag down on the bed in 103 and sat on the edge of it, and the mattress took her weight without complaint, and the room was warm, and her eyes ached, and from somewhere down the gallery she heard Marcus's steady footsteps doing one more pass of the corridor before he would consent to sleep — because that was what Marcus did: he held the line of a building with his feet until the building proved itself, or didn't.
 
-*The beds were made up.* She wrote it in the notebook, sitting on the edge of the bed, in the flat register she used when she was most frightened. *Fifty doors. Five made up — 103, 105, 107, 109, and Jake's at the end. Sheets pressed. Towels folded. Heating on. No dust. Nothing out of place. 107 still lit, no one in it.*
+*The beds were made up.* She wrote it in the notebook, sitting on the edge of the bed, in the flat register she used when she was most frightened. *Fifty doors. Five made up — 103, 105, 107, 109, and Jake's at the end. Couples took 103 and 105. Sheets pressed. Towels folded. Heating on. No dust. Nothing out of place. 107 and 109 still lit, no one in them.*
 
 *The letter went to sixty people.*
 

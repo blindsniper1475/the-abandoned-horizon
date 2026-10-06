@@ -12,7 +12,7 @@ A running record of story and project decisions, newest last. One entry per deci
 - **Time:** Chapter 2 happens the same night as Chapter 1 (loop 1, day 1, `time: night`). The group leaves the common room after the flicker to find beds; there is no time skip and no daylight.
 - **POV:** Elena Hayes (per chapter registry). Her reporting voice narrates when she's frightened; she writes everything down — the notebook is the chapter's spine.
 - **Ledger:** The library circulation ledger is dated **eleven days before arrival**, kept by hand in an unknown upright hand. This is Alex's maintenance/sign-in trail — planted here, not explained until the archive material surfaces (Ch 3–6). Names are copied into Elena's notebook but not recognized.
-- **Five rooms:** Exactly five of fifty gallery doors are unlocked and made up — matching five respondents to a letter that went to sixty. 107 is made up, lamp left burning, no one claims it (reserved for Alex; never stated on page yet). Room assignments: M+E 103, David 105, Sarah 109, Jake last door before the stair.
+- **Five rooms:** Exactly five of fifty gallery doors are unlocked and made up — matching five respondents to a letter that went to sixty. 107 and 109 are made up, lamps left burning, no one claims them (the extra beds read as kept ready; reserved-for-Alex never stated on page). Room assignments: M+E 103, David+Sarah 105 (married couples share), Jake last door before the stair; 107 and 109 left empty.
 - **Duress first step:** Elena's post-greenhouse symptoms (chest warmth, ache behind the eyes) are logged as symptoms, attributed to travel, told to no one. Stage names and percentages are never spoken in prose — sensation only, per the locked prose rule.
 - **Chapter hook:** Question — *How did they know it would be five?*
 
@@ -73,3 +73,9 @@ A running record of story and project decisions, newest last. One entry per deci
 - **Author statement (off-topic note):** after the book is finished, wants to adapt it — TV series or YouTube series, and/or audiobook/audio drama; plans AI generation for assets. Recorded in `notes/adaptation.md` as a phased plan (A: audiobook, B: audio drama, C: visual/motion-comic YouTube, D: TV pitch), priority order per author's phrasing.
 - **Decision:** book stays first; no prose changes made to serve future formats. The roadmap file documents which existing craft rules already make the manuscript adaptation-friendly (5-beat scenes, single POV, dialogue-forward register, contained setting) and which canon anchors must survive every adaptation (Chris never on-page, Alex voiceless/faceless before Ch 6, Jake's dossier unleaked, locked retention numbers, American dialect/imperial units).
 - Repo structure unchanged; script folders (`adaptations/`) will be derived from finished chapters only when production actually starts.
+
+## 2026-10-07 — Room-sharing arrangement (author directive)
+- Married couples share rooms: Marcus+Elena in 103, David+Sarah in 105. Motive is comfort/safety, not trust in the building — "familiar place, but not familiar place." Jake keeps his own room at the end before the stair.
+- The two leftover made-up rooms are now 107 AND 109 (lamps burning, unclaimed). Five beds for five people still holds; two spare rooms instead of one — deepens the "kept ready" wrongness.
+- Chapter 3 opening adjusted ever so slightly per author note: Sarah's cold coffee moved from desk/outside-the-door to the nightstand between the two beds in 105. New implication: whoever left it came INTO the room while they slept. Sarah's "did not say that part downstairs" beat preserved and sharpened.
+- Scene card, continuity state, and this log updated accordingly.

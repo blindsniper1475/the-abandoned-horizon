@@ -41,7 +41,7 @@ The group leaves the common room after the flicker and crosses the school to fin
 - All five are healthy; the building is still pristine and warm.
 - Elena logs physical symptoms (eye ache, chest warmth) after the greenhouse, attributes them to travel, tells no one — first bodily step of the duress curve, never named.
 - The circulation ledger: entries in an unknown hand, dated eleven days before arrival; Elena copies four lines (names/times) into her notebook — seeds the Ch 3 archive discovery.
-- Room assignments: Marcus+Elena in 103, David 105, Sarah 109, Jake at the end before the stair; 107 made up and left empty with its lamp burning.
+- Room assignments: Marcus+Elena in 103, David+Sarah in 105 (married couples share rooms), Jake at the end before the stair; 107 and 109 made up and left empty, lamps burning.
 - Elena's first map is discarded and redrawn; she titles the discrepancy "verify tomorrow" — her documentation-as-control beat.
 - Alex remains **mentioned only**, never in the scene cast.
 

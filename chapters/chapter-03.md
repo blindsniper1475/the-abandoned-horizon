@@ -20,7 +20,7 @@ mode: ""
 date: ""
 time: day
 hook: revelation
-word-count: 3101
+word-count: 3100
 ---
 
 # Chapter 3: The Archive Vaults
@@ -37,7 +37,7 @@ word-count: 3101
 
 ## Chapter Text
 
-The storm had not let go by morning, and nobody had expected it to. Sarah woke in the made-up room at seven-something — she did not check, because nothing down there kept time she trusted — and found the white-out still pressing at the window like something trying to get in, and the lamp already burning, and her coffee gone cold on the desk from the thermos someone had left outside her door. Not marked. Not addressed. Just left there, warm when she opened the door, which meant whoever had left it had come up the gallery and stood outside and waited long enough to know she was awake. She did not say that part downstairs. There were six parts of the morning to bring up instead, and this was the least useful one.
+The storm had not let go by morning, and nobody had expected it to. Sarah woke in the made-up room at seven-something — she did not check, because nothing down there kept time she trusted — with David breathing steadily beside her in the other bed, and the lamp already burning, and her coffee gone cold on the nightstand from the thermos left there between the two beds. Not marked. Not addressed. Just set out like room service, warm when she woke, which meant whoever had brought it had come into this room while they were still asleep and stood here long enough to know they were waking. She did not say that part downstairs. There were six parts of the morning to bring up instead, and this was the least useful one.
 
 The common room smelled of the fire having been rebuilt at some point in the night — fresh kindling smell under the old smoke — and Marcus was already up, doing something with a length of cord and a chair leg that he would not have been able to explain if asked. Elena had her notebook out and her pen capped and was asking David a question about the building's wiring that was really a question about the building's bills. Jake was asleep sitting up in the big chair with his camera on his chest the way other men sleep with a hand over their hearts, and nobody had the heart or the nerve to wake him.
 

@@ -36,7 +36,7 @@ knowledge-state:
     knows: the library ledger has been kept by hand in an unknown upright hand, dated eleven days before arrival; she copied four lines
     learned-in: chapter-02
   - character: elena-hayes
-    knows: exactly five of fifty dormitory rooms are made up, one (107) lit and empty; the letter went to sixty
+    knows: exactly five of fifty dormitory rooms are made up, two (107, 109) lit and empty; the letter went to sixty
     learned-in: chapter-02
   - character: elena-hayes
     knows: her drawn map of the school does not match the geography she walked
@@ -102,7 +102,7 @@ Day two of the storm. On the first night the five found the school impossibly ma
 |-----------|-------|------------|
 | elena-hayes | Only five of the graduating class answered the reunion letter | chapter-01 |
 | elena-hayes | The library ledger is kept by hand in an unknown upright hand, dated eleven days before arrival | chapter-02 |
-| elena-hayes | Exactly five of fifty dormitory rooms are made up; 107 is lit and empty | chapter-02 |
+| elena-hayes | Exactly five of fifty dormitory rooms are made up; 107 and 109 are lit and empty | chapter-02 |
 | elena-hayes | Her drawn map does not match the geography she walked | chapter-02 |
 | marcus-hayes | The greenhouse is maintained — vines cut back within days, power on nobody's bill | chapter-02 |
 | david-keller | The blizzard is not behaving like weather | chapter-01 |
