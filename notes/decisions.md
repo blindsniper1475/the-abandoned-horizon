@@ -106,3 +106,9 @@ A running record of story and project decisions, newest last. One entry per deci
 - Marcus/Elena scene expanded: added David offering to brief ("Give me an hour... report"), Elena's "column" deflection, and a beat of David reading Elena's frayed state via her pen-capping tic (POV-consistent). Removed an invented "check-in couples do without thinking" line — contradicted Ch 2's locked arrangement that couples say nothing aloud about safety.
 - Kept intentionally: "twenty years of missing memory" (graduation gap, consistent w/ Ch 1-3), "funny for the first ten years" (Sarah exaggeration, voice-consistent).
 - Word count updated: 3755.
+
+## Ch 4 attribution fix (author reread pass)
+- Late in Ch 4 a notebook was attributed to Marcus mid-scene; Marcus counts (heads, doorframes, steps) but does not keep a written log — the written record is David's fault log. Corrected to "David's fault log, open on the table in front of him." All nearby references re-checked for character-ownership consistency (only David keeps the forty-one-row log; Elena keeps the notebook; Jake has the camera; Sarah nothing written).
+
+## Security note (standing rule)
+- The author's GitHub personal access token must never be written into any repo file, commit message, remote URL, or these notes. Remote is configured credential-free; pushes were done with an inline-authenticated URL only. If pushing again from a fresh session, ask the author to re-share credentials rather than looking for stored ones. Token expires ~3 months from 2026-10-07.
