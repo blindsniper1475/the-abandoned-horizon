@@ -81,7 +81,7 @@ Marcus drove. The heater roared. The radio voice read another bulletin. And the 
 
 Then the school appeared — not emerging from the fog so much as resolving into it, the way a photograph develops in a chemical bath.
 
-Twelve brutalist towers of grey concrete and dark glass, packed inside four acres at the very edge of the sea, fused together by enclosed walkways into a single sprawling body. It was a fortress: high walls, few windows on the lower floors, everything designed as much to keep things in as to keep things out. The concrete was clean — too clean for a building that had stood empty for fifteen years. No graffiti. No boarded windows. The snow had been cleared from the courtyard in a perfect rectangle, as if someone had swept it that morning.
+Twelve brutalist towers of gray concrete and dark glass, packed inside four acres at the very edge of the sea, fused together by enclosed walkways into a single sprawling body. It was a fortress: high walls, few windows on the lower floors, everything designed as much to keep things in as to keep things out. The concrete was clean — too clean for a building that had stood empty for fifteen years. No graffiti. No boarded windows. The snow had been cleared from the courtyard in a perfect rectangle, as if someone had swept it that morning.
 
 "It looks like a photograph," Sarah said, and her voice had gone strange and quiet.
 
@@ -89,7 +89,7 @@ Marcus killed the engine. For a moment nobody moved. The only sound was the tick
 
 Then Jake opened his door, and the cold came in like something with teeth.
 
-They climbed out and stood together in the courtyard — five adults in heavy winter gear, ringed by the towers. Marcus pulled his insulated jacket tighter and looked up. The buildings rose on every side, dark windows reflecting the white sky. The snow should have been drifting against the walls after fifteen years of storms. It wasn't. The courtyard was swept clean down to the grey stone.
+They climbed out and stood together in the courtyard — five adults in heavy winter gear, ringed by the towers. Marcus pulled his insulated jacket tighter and looked up. The buildings rose on every side, dark windows reflecting the white sky. The snow should have been drifting against the walls after fifteen years of storms. It wasn't. The courtyard was swept clean down to the gray stone.
 
 Elena was writing now, fast, her pen moving across the page in short strokes. Marcus watched her for a moment, then shouldered the first crate and led them toward the main entrance.
 

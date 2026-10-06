@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3496
+word-count: 3558
 ---
 
 # Chapter 2: The Sanctuary
@@ -36,7 +36,7 @@ word-count: 3496
 
 ## Chapter Text
 
-Nobody moved for a moment after the flicker. The fire had burned down to a lattice of orange coals, and the common room had gone the colour of old newsprint, and all five of them were looking down the hallway at the place where the light had failed — thirty yards off, near the east-wing door — where the amber now sat steady and innocent, as if it had never done anything but burn. "Bad lightbulb," Marcus had said. Jake had raised his mug to it. But sitting in chairs with a laugh still drying on their faces, none of them could make the phrase sound true a second time.
+Nobody moved for a moment after the flicker. The fire had burned down to a lattice of orange coals, and the common room had gone the color of old newsprint, and all five of them were looking down the hallway at the place where the light had failed — thirty yards off, near the east-wing door — where the amber now sat steady and innocent, as if it had never done anything but burn. "Bad lightbulb," Marcus had said. Jake had raised his mug to it. But sitting in chairs with a laugh still drying on their faces, none of them could make the phrase sound true a second time.
 
 "I'm not sleeping in this room," Elena said.
 
@@ -62,7 +62,7 @@ Elena looked at her map. She had drawn it in the common room over the first hour
 
 They went out through the entrance hall, five coats over five arms, the fire behind them winking at their backs. The building received them the way deep water receives a stone — without sound, without ripple. Their boots found the polished concrete of the main corridor, and their footsteps came back to them a half-beat late, out of sync with themselves, so that every few steps each of them glanced down as if they'd stepped on something.
 
-The academic block was a brutalist's idea of a cathedral. The ceiling rose three storeys to a ribbed vault of raw concrete, and the walls leaned inward as they climbed, and the lights — the endless, sourceless, amber lights — were fixed so high that they lit the volume of the space without illuminating a single surface. Everything you looked at directly was in shadow. Everything in the corner of your eye was bright.
+The academic block was a brutalist's idea of a cathedral. The ceiling rose three floors to a ribbed vault of raw concrete, and the walls leaned inward as they climbed, and the lights — the endless, sourceless, amber lights — were fixed so high that they lit the volume of the space without illuminating a single surface. Everything you looked at directly was in shadow. Everything in the corner of your eye was bright.
 
 "Scale," Elena said, because narrating was how she kept hold of things. "Intentional. You're supposed to feel small in here. It's a — it's an argument in concrete."
 
@@ -70,11 +70,11 @@ The academic block was a brutalist's idea of a cathedral. The ceiling rose three
 
 "That you are one of a great many, and the building will outlast you." Elena wrote it down, and underlined it, and did not feel better.
 
-Marcus had moved ahead to a junction where three corridors met under a wall-mounted directory — brass letters on dark wood, each line of it intact, none of it faded. He read it aloud in the low voice he used for hazard signs. "Library. Greenhouse. Residential." He put two fingers on RESIDENTIAL and looked back at them. "Left corridor, second junction, down the gallery. Two hundred metres, maybe."
+Marcus had moved ahead to a junction where three corridors met under a wall-mounted directory — brass letters on dark wood, each line of it intact, none of it faded. He read it aloud in the low voice he used for hazard signs. "Library. Greenhouse. Residential." He put two fingers on RESIDENTIAL and looked back at them. "Left corridor, second junction, down the gallery. Two hundred yards, maybe."
 
-"Two hundred metres," David said. "In a building the size of a city."
+"Two hundred yards," David said. "In a building the size of a city."
 
-"It's two hundred metres," Marcus said, "and I'm counting doorframes while we walk. That's how they did it here — locals read the corridors by counting doorframes, because in a storm every covered walkway looks like every other one. Old town trick." He set off, and after a moment Elena fell in beside him, her pen cap in her teeth.
+"It's two hundred yards," Marcus said, "and I'm counting doorframes while we walk. That's how they did it here — locals read the corridors by counting doorframes, because in a storm every covered walkway looks like every other one. Old town trick." He set off, and after a moment Elena fell in beside him, her pen cap in her teeth.
 
 They counted. Marcus counted out loud under his breath — eleven, twelve, thirteen — and Elena wrote the numbers in the margin of her map, and the corridor went on being exactly what a corridor should be: doors on both sides, evenly spaced, lecture halls and offices with their nameplates polished and their lights on and their chairs pushed in, waiting for a class that had graduated twenty years ago.
 
@@ -82,7 +82,7 @@ It was Sarah who stopped first.
 
 "Listen," she said.
 
-They listened. The building had been loud the whole time, they realised — a fine, continuous presence at the edge of hearing, fans turning somewhere in the walls, pipes ticking as they warmed, the storm reduced to a pressure you felt in the eardrums rather than heard. And now, focusing on it, you could hear all of it stop. Not wind down. Stop. Like a held breath.
+They listened. The building had been loud the whole time, they realized — a fine, continuous presence at the edge of hearing, fans turning somewhere in the walls, pipes ticking as they warmed, the storm reduced to a pressure you felt in the eardrums rather than heard. And now, focusing on it, you could hear all of it stop. Not wind down. Stop. Like a held breath.
 
 Then it started again, one degree louder.
 
@@ -94,7 +94,7 @@ They agreed, without saying they agreed, to walk faster.
 
 The library was on their route the way everything in the school was on your route eventually: a set of double doors, a smell of cold paper, and then a room that made everyone stop talking without deciding to.
 
-It rose four storeys, floor to vaulted ceiling, in tiers of oak shelving connected by iron galleries and a rolling ladder. The windows — tall, arched, set into the outer wall — were shuttered from inside with heavy panels, and the lights above the reading tables burned green and low over furniture that had been arranged and rearranged by decades of quiet people. The silence had weight here. It pressed gently on the top of the head.
+It rose four floors, floor to vaulted ceiling, in tiers of oak shelving connected by iron galleries and a rolling ladder. The windows — tall, arched, set into the outer wall — were shuttered from inside with heavy panels, and the lights above the reading tables burned green and low over furniture that had been arranged and rearranged by decades of quiet people. The silence had weight here. It pressed gently on the top of the head.
 
 "Jesus," David said, and even that came out wrong, too big for the room.
 
@@ -112,7 +112,7 @@ Elena looked. Sarah was right. Two heavy reading tables stood a half-inch out of
 
 "They'd face them out," Marcus said. He had stopped at the circulation desk and was reading the ledger left open beneath a glass dome — the paper open to a date, the columns ruled in pencil, every line in the same hand. "Somebody sat here. And whoever it was, they're keeping the book —" He stopped, and let her come read.
 
-Elena crossed to him. The ledger page was dated eleven days ago. The entries beneath the date were in ink, in a careful, upright hand that she did not recognise: names she did not know, times beside them, a column headed *out* filled in neatly for every one.
+Elena crossed to him. The ledger page was dated eleven days ago. The entries beneath the date were in ink, in a careful, upright hand that she did not recognize: names she did not know, times beside them, a column headed *out* filled in neatly for every one.
 
 Eleven days. No names she knew. No explanation of who had written them or why a ledger in a closed school was still being kept by hand.
 
@@ -120,7 +120,7 @@ She copied four of the lines into her notebook — names, times — because copy
 
 "We're not staying in here," Marcus said.
 
-Nobody argued. The library was beautiful, and it had just told them something none of them knew how to hold, and the residential wing was two hundred metres further on.
+Nobody argued. The library was beautiful, and it had just told them something none of them knew how to hold, and the residential wing was two hundred yards further on.
 
 The corridor beyond ran along the inside wall of the covered walkway, and through the walkway's glass you could see the storm — a solid white wall sliding past the windows like film through a projector, fast enough to have no detail. Elena walked with her pen cap between her teeth and her map against her forearm, and she was thinking about the ledger, about eleven days, about a hand that wrote neatly in a building nobody used, and she was thinking that she had stood in this exact spot before, aged seventeen or eighteen, and that the memory of standing here was not a memory but a fact in her body: the weight of the backpack on one shoulder, the exact gradient of the slope of that floor. Her feet knew the way to the library. Her feet had known the whole way.
 
@@ -160,7 +160,7 @@ She was thirty-eight years old and she had ridden nine hours in the cab of a tru
 
 *Eyes: ache. Chest: warm. Onset: after the greenhouse. Note and continue.* She capped the pen and walked on, and told no one.
 
-The residential wing announced itself the way the library had — by everybody going quiet. It was a long gallery, two storeys of it, rooms opening off both sides, each door dark-varnished with a brass room number and a little service hatch for keys, a wall-lamp above every door burning amber on the building's own timer, and at the far end a wide stair going up to a second floor. A fire plan in a glass frame on the wall showed the wing as a grid of small rectangles: *101. 102. 103.*
+The residential wing announced itself the way the library had — by everybody going quiet. It was a long gallery, two floors of it, rooms opening off both sides, each door dark-varnished with a brass room number and a little service hatch for keys, a wall-lamp above every door burning amber on the building's own timer, and at the far end a wide stair going up to a second floor. A fire plan in a glass frame on the wall showed the wing as a grid of small rectangles: *101. 102. 103.*
 
 Marcus went down the gallery trying doors. The first was locked. The second was locked. The third opened on a room made up for someone who was not there — bed tight as a drum, blanket folded to the millimetre, a small desk, a window with the white-out pressing at the glass like something trying to get in. He tried the next: locked. The next: locked. Then, further on, another made-up room, and another after that, and by the time he reached the stair he had the look he got when a number refused to sit still.
 
