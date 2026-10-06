@@ -79,3 +79,9 @@ A running record of story and project decisions, newest last. One entry per deci
 - The two leftover made-up rooms are now 107 AND 109 (lamps burning, unclaimed). Five beds for five people still holds; two spare rooms instead of one — deepens the "kept ready" wrongness.
 - Chapter 3 opening adjusted ever so slightly per author note: Sarah's cold coffee moved from desk/outside-the-door to the nightstand between the two beds in 105. New implication: whoever left it came INTO the room while they slept. Sarah's "did not say that part downstairs" beat preserved and sharpened.
 - Scene card, continuity state, and this log updated accordingly.
+
+## Session note — Ch 3 opening revised (author direction)
+- Sarah wakes ALONE in 105; David is already downstairs by the dead fire talking with Elena about what they found yesterday.
+- The coffee on the nightstand was brought by DAVID (he carried it up during the night). Sarah does not know this and never asks. Old implication (unknown intruder entered the room) replaced with a warmer-but-oddly-specific one: mug ring says it sat steaming a long time, thermos poured to her exact line, David's bed made up tight, no sign he slept.
+- Downstairs beat adjusted: Elena and David break off mid-sentence when Sarah enters — small shared-secret texture, POV-safe (Sarah infers, states nothing).
+- Word count updated: 3205.

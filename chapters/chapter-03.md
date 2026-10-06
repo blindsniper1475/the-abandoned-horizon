@@ -20,7 +20,7 @@ mode: ""
 date: ""
 time: day
 hook: revelation
-word-count: 3100
+word-count: 3205
 ---
 
 # Chapter 3: The Archive Vaults
@@ -37,9 +37,9 @@ word-count: 3100
 
 ## Chapter Text
 
-The storm had not let go by morning, and nobody had expected it to. Sarah woke in the made-up room at seven-something — she did not check, because nothing down there kept time she trusted — with David breathing steadily beside her in the other bed, and the lamp already burning, and her coffee gone cold on the nightstand from the thermos left there between the two beds. Not marked. Not addressed. Just set out like room service, warm when she woke, which meant whoever had brought it had come into this room while they were still asleep and stood here long enough to know they were waking. She did not say that part downstairs. There were six parts of the morning to bring up instead, and this was the least useful one.
+The storm had not let go by morning, and nobody had expected it to. Sarah woke in the made-up room at seven-something — she did not check, because nothing down there kept time she trusted — alone, with the lamp already burning, and her coffee gone cold on the nightstand beside a ring pressed into the wood where the mug had sat steaming for longer than it took her to wake. The thermos stood next to it, unmarked, unscrewed, poured to the exact line she drank it to. David's side of the room was made up tight, the way he left it every morning of their marriage, and there was no sign he had slept at all. Down the gallery she could hear them talking near the dead fire in the common room — David's flat careful voice braided with Elena's quicker one, going over what they had found the day before, names and numbers pitched too low from this distance to carry. He had probably carried the cup up for her sometime in the night, before whatever this conversation was started, and set it out like room service, and gone back down to keep the fire company. She did not ask him about it. There were six parts of the morning to bring up downstairs instead, and this was the least useful one.
 
-The common room smelled of the fire having been rebuilt at some point in the night — fresh kindling smell under the old smoke — and Marcus was already up, doing something with a length of cord and a chair leg that he would not have been able to explain if asked. Elena had her notebook out and her pen capped and was asking David a question about the building's wiring that was really a question about the building's bills. Jake was asleep sitting up in the big chair with his camera on his chest the way other men sleep with a hand over their hearts, and nobody had the heart or the nerve to wake him.
+The common room smelled of the fire having been rebuilt at some point in the night — fresh kindling smell under the old smoke — and Marcus was already up, doing something with a length of cord and a chair leg that he would not have been able to explain if asked. Elena had her notebook out and her pen capped; she and David had clearly broken off mid-sentence when Sarah came in, because the silence they handed her was a specific shape, though neither of them looked guilty enough to have earned it. Jake was asleep sitting up in the big chair with his camera on his chest the way other men sleep with a hand over their hearts, and nobody had the heart or the nerve to wake him.
 
 "Records," Elena said, when Sarah sat down. "That's what I want to find. Not the library's circulation book — we saw that. The school's own records. Admissions, class lists, staff. If a place this size ran for forty years somebody filed something somewhere."
 
