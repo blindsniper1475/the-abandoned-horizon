@@ -50,7 +50,7 @@ Meticulous and relentlessly curious. Elena notices the misplaced chair, the seco
 
 ## Backstory
 
-Elena married Marcus the summer after graduation and went with him to Texas. She built a career as an online reporter, known for long, careful pieces about local histories that everyone else had given up on — old schools, closed factories, families who vanished from the record. She never told Marcus why those stories, in particular. She spent twenty years investigating her own hometown without ever being able to say, out loud, that she could not remember it.
+Elena married Marcus the summer after graduation and went with him to Texas. She built a career as a reporter and investigator — bylines for papers and magazines, but the work underneath was closer to detective work: public records, land disputes, missing-persons files that stopped at the county line. She was known for long, careful pieces about local histories that everyone else had given up on — old schools, closed factories, families who vanished from the record — and for a habit of pulling a single filing number until the whole folder came loose. She never told Marcus why those stories, in particular. She spent twenty years investigating her own hometown without ever being able to say, out loud, that she could not remember it.
 
 ## Motivations & Goals
 

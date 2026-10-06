@@ -2,7 +2,7 @@
 title: "The Archive's Shadow"
 chapter: chapter-16
 scene: 1
-pov: ""
+pov: marcus-hayes
 location: ""
 characters: []
 mentions: []

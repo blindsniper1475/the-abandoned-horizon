@@ -39,7 +39,7 @@ ghost-wound: "He has spent his whole life believing he could out-think anything,
 
 ## Appearance
 
-Five-foot-nine and lean, with the slight forward stoop of a man who has spent two decades bent toward screens. Restless hands — a pen spun, a thumb tapped, a ring turned. Sharply tired eyes behind glasses he pushes up out of habit. He dresses in the same grey and charcoal he has worn since college, functionally, without any interest in the question of clothes.
+Five-foot-nine and lean, with the slight forward stoop of a man who has spent two decades bent toward screens. Restless hands — a pen spun, a thumb tapped, a ring turned. Sharply tired eyes behind glasses he pushes up out of habit. He dresses in the same gray and charcoal he has worn since college, functionally, without any interest in the question of clothes.
 
 ## Personality & Traits
 

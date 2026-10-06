@@ -2,7 +2,7 @@
 title: The Buffer Failure
 chapter: chapter-13
 scene: 1
-pov: ""
+pov: sarah-keller
 location: ""
 characters: []
 mentions: []

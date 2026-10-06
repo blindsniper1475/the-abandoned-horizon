@@ -8,7 +8,7 @@ prevalence: uncommon
 
 ## Overview
 
-The physics of the story. Reality in the Archive is **held together by a Buffer** — a skin of coherence — and that skin can be worn thin. When it fails, the world does not break; it *loses resolution*. Edges soften, colours go muddy, sound thins out, and the space stops obeying the shape of space. This is **De-Rez**.
+The physics of the story. Reality in the Archive is **held together by a Buffer** — a skin of coherence — and that skin can be worn thin. When it fails, the world does not break; it *loses resolution*. Edges soften, colors go muddy, sound thins out, and the space stops obeying the shape of space. This is **De-Rez**.
 
 The friends never say any of these words out loud. In the prose it is described as a place going *flat*, *wrong*, *washed out*, or *unfinished*.
 

@@ -2,7 +2,7 @@
 title: "The Pool's Depths"
 chapter: chapter-19
 scene: 1
-pov: ""
+pov: david-keller
 location: ""
 characters: []
 mentions: []

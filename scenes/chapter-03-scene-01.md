@@ -2,7 +2,7 @@
 title: The Archive Vaults
 chapter: chapter-03
 scene: 1
-pov: ""
+pov: sarah-keller
 location: ""
 characters: []
 mentions: []

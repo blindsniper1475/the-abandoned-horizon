@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3558
+word-count: 3496
 ---
 
 # Chapter 2: The Sanctuary

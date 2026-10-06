@@ -2,7 +2,7 @@
 title: The Hallway Stretch
 chapter: chapter-05
 scene: 1
-pov: ""
+pov: jake-mercer
 location: ""
 characters: []
 mentions: []

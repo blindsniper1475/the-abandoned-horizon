@@ -2,7 +2,7 @@
 title: The Final De-Rez
 chapter: chapter-20
 scene: 1
-pov: ""
+pov: jake-mercer
 location: ""
 characters: []
 mentions: []

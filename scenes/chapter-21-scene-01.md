@@ -2,7 +2,7 @@
 title: The Loss
 chapter: chapter-21
 scene: 1
-pov: ""
+pov: marcus-hayes
 location: ""
 characters: []
 mentions: []

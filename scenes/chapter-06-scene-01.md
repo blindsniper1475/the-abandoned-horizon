@@ -2,7 +2,7 @@
 title: The Gatekeepers
 chapter: chapter-06
 scene: 1
-pov: ""
+pov: marcus-hayes
 location: ""
 characters: []
 mentions: []

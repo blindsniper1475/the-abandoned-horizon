@@ -2,7 +2,7 @@
 title: The Gate Collapse
 chapter: chapter-18
 scene: 1
-pov: ""
+pov: sarah-keller
 location: ""
 characters: []
 mentions: []

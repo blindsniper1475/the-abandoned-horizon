@@ -2,7 +2,7 @@
 title: The Memory Fracture
 chapter: chapter-11
 scene: 1
-pov: ""
+pov: marcus-hayes
 location: ""
 characters: []
 mentions: []

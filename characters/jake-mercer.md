@@ -73,7 +73,7 @@ Loose, warm, unhurried. He talks in images and tangents, and he is the only one 
 ## Character Arc
 
 - **Starting state:** The watcher — safe behind the camera, present everywhere and in nowhere.
-- **Key turning points:** The Echoes that recognise him; the loop where his photographs are the only memory that survives; the moment he must choose between shooting the ending and being inside it.
+- **Key turning points:** The Echoes that recognize him; the loop where his photographs are the only memory that survives; the moment he must choose between shooting the ending and being inside it.
 - **Ending state:** Pays the price for the group's memory with his own. Jake is the one the school deletes — and the photographs he leaves behind are how the others ever find the door.
 
 ## Timeline

@@ -2,7 +2,7 @@
 title: The Escape
 chapter: chapter-23
 scene: 1
-pov: ""
+pov: sarah-keller
 location: ""
 characters: []
 mentions: []

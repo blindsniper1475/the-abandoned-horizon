@@ -2,7 +2,7 @@
 title: The Non-Euclidean Maze
 chapter: chapter-15
 scene: 1
-pov: ""
+pov: jake-mercer
 location: ""
 characters: []
 mentions: []

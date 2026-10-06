@@ -2,7 +2,7 @@
 title: The First Echo
 chapter: chapter-04
 scene: 1
-pov: ""
+pov: david-keller
 location: ""
 characters: []
 mentions: []

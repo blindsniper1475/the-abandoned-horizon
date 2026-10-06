@@ -2,7 +2,7 @@
 title: Re-Stabilization
 chapter: chapter-24
 scene: 1
-pov: ""
+pov: david-keller
 location: ""
 characters: []
 mentions: []

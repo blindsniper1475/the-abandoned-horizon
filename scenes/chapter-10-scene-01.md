@@ -2,7 +2,7 @@
 title: The Greenhouse
 chapter: chapter-10
 scene: 1
-pov: ""
+pov: jake-mercer
 location: ""
 characters: []
 mentions: []

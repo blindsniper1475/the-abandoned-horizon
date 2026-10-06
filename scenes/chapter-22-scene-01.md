@@ -2,7 +2,7 @@
 title: The Void Floods In
 chapter: chapter-22
 scene: 1
-pov: ""
+pov: elena-hayes
 location: ""
 characters: []
 mentions: []

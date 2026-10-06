@@ -2,7 +2,7 @@
 title: The Void Signal
 chapter: chapter-17
 scene: 1
-pov: ""
+pov: elena-hayes
 location: ""
 characters: []
 mentions: []

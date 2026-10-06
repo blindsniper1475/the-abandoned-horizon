@@ -2,7 +2,7 @@
 title: The Clock Tower
 chapter: chapter-12
 scene: 1
-pov: ""
+pov: elena-hayes
 location: ""
 characters: []
 mentions: []

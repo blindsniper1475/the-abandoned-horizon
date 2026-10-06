@@ -2,7 +2,7 @@
 title: The Echo Chamber
 chapter: chapter-14
 scene: 1
-pov: ""
+pov: david-keller
 location: ""
 characters: []
 mentions: []

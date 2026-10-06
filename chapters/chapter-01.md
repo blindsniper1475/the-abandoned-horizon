@@ -17,9 +17,9 @@ arcs-advanced:
 status: draft
 mode: ""
 date: ""
-time: ""
+time: night
 hook: revelation
-word-count: 3067
+word-count: 3077
 ---
 
 # Chapter 1: The Arrival
@@ -133,7 +133,7 @@ They shed their coats, and the layers underneath became visible for the first ti
 
 They sat. Elena found a tin of coffee in the kitchen — still good, sealed, dated eighteen months ahead — and boiled water on the stove, and they passed around chipped ceramic mugs and talked.
 
-They talked the way people talk when they have been apart too long and know it: quickly, in layers, skipping the boring parts. Marriages — Marcus and Elena, solid and weathered; Sarah and David, once, briefly, years ago, a fact they now discussed with the cheerful detachment of archaeologists examining a dig. Jake, who had never once stayed anywhere. Careers built and abandoned. Parents buried. Children raised in other states, other time zones, lives of their own. Twenty years compressed into ninety minutes of firelit conversation, and underneath it all, the thing nobody said out loud: that a class of sixty had received a letter, and only five chairs had been filled.
+They talked the way people talk when they have been apart too long and know it: quickly, in layers, skipping the boring parts. Marriages — Marcus and Elena, solid and weathered; David and Sarah, three years into theirs, still finishing each other's sentences about work the way people do when the job is the one thing a marriage can safely be about. Jake, who had never once stayed anywhere. Careers built and abandoned. Parents buried. Children raised in other states, other time zones, lives of their own. Twenty years compressed into ninety minutes of firelit conversation, and underneath it all, the thing nobody said out loud: that a class of sixty had received a letter, and only five chairs had been filled.
 
 Marcus sipped his coffee and let the voices wash over him, and thought: *We're here. We actually came.*
 

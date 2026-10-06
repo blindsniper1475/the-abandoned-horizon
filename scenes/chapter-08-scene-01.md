@@ -2,7 +2,7 @@
 title: The Pool
 chapter: chapter-08
 scene: 1
-pov: ""
+pov: sarah-keller
 location: ""
 characters: []
 mentions: []

@@ -2,7 +2,7 @@
 title: The Siege Intensifies
 chapter: chapter-09
 scene: 1
-pov: ""
+pov: david-keller
 location: ""
 characters: []
 mentions: []

@@ -2,7 +2,7 @@
 title: The First Crack
 chapter: chapter-07
 scene: 1
-pov: ""
+pov: elena-hayes
 location: ""
 characters: []
 mentions: []

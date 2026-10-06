@@ -24,7 +24,7 @@ status: unknown
 
 ## Description
 
-A brutalist campus fused into a single organism. Twelve concrete towers rise ten to twelve storeys out of the fog, packed so tightly into four acres that from a distance they read as one structure — a grey fist at the edge of the sea. There are no gaps to the weather: enclosed corridors and covered walkways stitch the buildings together at every third floor, and the sub-basement runs beneath all of it, linking every tower below ground.
+A brutalist campus fused into a single organism. Twelve concrete towers rise ten to twelve floors out of the fog, packed so tightly into four acres that from a distance they read as one structure — a gray fist at the edge of the sea. There are no gaps to the weather: enclosed corridors and covered walkways stitch the buildings together at every third floor, and the sub-basement runs beneath all of it, linking every tower below ground.
 
 The **library** is its own enormous building, the tallest and quietest on campus. The **greenhouse** is *vertical* — floor after floor of glass and growing light, stacked like a cabinet of weather. The **academic blocks** hold classrooms; the **dormitories** hold beds; the **service blocks** hold kitchens, staff rooms, and the long low halls where the town used to eat together.
 
@@ -50,5 +50,5 @@ Built as a school that could also hold a town. Because the storms never truly st
 
 ## Current State
 
-Pristine on arrival and rotting by the inch. In Act I the school is over-warm, over-lit, and too sharp to be real — nostalgia with the resolution turned up. As the loops accumulate, hallways run longer than they were, colours bleed phosphor-green, and the building starts to *breathe*. By the end it is not a school. It is a threshold, and it is closing.
+Pristine on arrival and rotting by the inch. In Act I the school is over-warm, over-lit, and too sharp to be real — nostalgia with the resolution turned up. As the loops accumulate, hallways run longer than they were, colors bleed phosphor-green, and the building starts to *breathe*. By the end it is not a school. It is a threshold, and it is closing.
 

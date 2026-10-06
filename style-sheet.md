@@ -69,7 +69,7 @@ American English throughout — `dialect: american` in the frontmatter, enforced
 - **Proper nouns only:** character names (Marcus Hayes, Elena Hayes, Alex Voss), places as named facilities (*the school*, *the library*, *the greenhouse* are lowercase common nouns in narration; *Archive School* appears capitalized only in formal/document contexts — letterhead, signets, official records), institutions (*Abscissa Industries* — but see Terms: the name appears only on paperwork, never in speech).
 - **Chapter titles** are title case in registries and headings (*The Arrival*, *The Sanctuary*), never referenced inside prose.
 - **Document text quoted inline** keeps whatever capitalization the document has — the ledger's upright hand, the letter's courteous phrasing. That is diegetic, not house style.
-- Job titles are lowercase unless used as a direct address or formal signature (*the ranger said*; a letter signed *Custodian* is the document's choice, not narration's).
+- Job titles are lowercase unless used as a direct address or formal signature (*the cop said*; a letter signed *Custodian* is the document's choice, not narration's).
 
 ## Hyphenation And Compounds
 
@@ -106,10 +106,10 @@ American English throughout — `dialect: american` in the frontmatter, enforced
 
 One entry per POV character or major speaker: vocabulary, sentence length, verbal tics, and words they never use.
 
-- **Marcus Hayes** (POV 1): Texas Ranger, twenty years. Short declaratives, procedure vocabulary, counting compulsions, held lines. Says *load*, *rating*, *egress*, *not right*. Never says *haunted*; he says *someone signed off on this*.
-- **Elena Hayes** (POV 2): long-form journalist — local histories everyone else gave up on. Medium-long sentences with embedded clauses; documents everything, writes the numbers down, then underlines the number that fails. Voice words: *record*, *verify*, *when*. Avoids *probably fine* like a landmine. Never uses mystical language for space.
-- **Sarah Keller** (POV 3+): former model, now brand work and funding artists. Poised, precise, asks the question everyone avoided in a flat voice. Describes everything visually, feels nothing about it on the page. Deflects with competence.
-- **David Keller** (POV 4+): systems and security analyst ("a firewall with a payroll"). Speaks in diagnostics: he doesn't ask how someone feels, he asks what changed. Timestamps, self-corrections mid-sentence, narrates probabilities out loud when rattled. Dryly funny without trying.
+- **Marcus Hayes** (POV 1): cop, twenty years in Texas — precinct work, then state detail, then the training cadre. Short declaratives, procedure vocabulary, counting compulsions, held lines. Says *load*, *rating*, *egress*, *not right*. Never says *haunted*; he says *someone signed off on this*.
+- **Elena Hayes** (POV 2): reporter and investigator — bylines on paper, but the real work is records, files, and local histories everyone else gave up on. Medium-long sentences with embedded clauses; documents everything, writes the numbers down, then underlines the number that fails. Voice words: *record*, *verify*, *when*. Avoids *probably fine* like a landmine. Never uses mystical language for space.
+- **Sarah Keller** (POV 3+): fashion model turned brand work — funds artists now, lives in Oregon with David. Poised, precise, asks the question everyone avoided in a flat voice. Describes everything visually, feels nothing about it on the page. Deflects with competence.
+- **David Keller** (POV 4+): systems and security analyst in Oregon ("a firewall with a payroll"), married to Sarah. Speaks in diagnostics: he doesn't ask how someone feels, he asks what changed. Timestamps, self-corrections mid-sentence, narrates probabilities out loud when rattled. Dryly funny without trying.
 - **Jake Mercer** (POV 5+): freelance photographer. Frames things — *composition*, *light*, *thirty seconds* — jokes to dissolve dread; the jokes get thinner as the book goes on. The sharpest memories of the five, and the emptiest life.
 - **Alex Voss** (never POV, mentioned until Ch 6): letter register — formal, dated, oddly courteous, faintly administrative. His warmth reads as *scripted*.
 

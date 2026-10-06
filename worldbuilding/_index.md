@@ -7,7 +7,7 @@ story: the-abandoned-horizon
 
 ## World Overview
 
-*Describe the world at a high level here.*
+A small town on the Alaskan coast that the modern world quietly stopped counting, and the twelve-tower brutalist school built to swallow it whole during a White-Out. The supernatural physics are never explained in prose: reality holds places together by a skin of coherence (the Buffer), and where the skin thins, the world loses resolution instead of breaking — edges soften, color goes phosphor-green, geometry stops adding up, and what was discarded leaks back as Echoes. Abscissa Industries built the framework decades ago, scored the town, processed it, and filed it; only the school still stands outside the filing, kept running by its last Custodian, Alex Voss, who is also its prisoner. Twenty years after graduation, his reunion letter reaches sixty former students and exactly five reply — because those five were the only ones whose Retention scores let them come back at all. Genre register: Stephen King foreground (marriages, jobs, trade talk, jokes dying mid-joke) over Lovecraft background (architecture, scale, indifference). Time is present-day, pre-smart-signal Alaska; no cell coverage past the county road.
 
 ## Locations
 
