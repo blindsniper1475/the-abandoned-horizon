@@ -1,28 +1,28 @@
 ---
 type: continuity-state
 story: the-abandoned-horizon
-current-chapter: 3
+current-chapter: 4
 character-state:
   - character: marcus-hayes
     location: the-archive-school
     physical: healthy
-    emotional: wary; quietly rattled by his own dossier (Chris filed as a line item); decided to confront whoever keeps the files
+    emotional: wary; ordered everyone to sleep in one room after the knocking; told no one what he saw at the glass
   - character: elena-hayes
     location: the-archive-school
     physical: healthy (quiet eye ache and chest warmth after the greenhouse, attributed to travel, unreported)
-    emotional: unsettled; holds the copied percentages and an unasked question ('exposure event, age 16')
+    emotional: unsettled; holds the copied percentages plus a fifth ledger line (transfer complete, 23:59) and an unasked question ('exposure event, age 16')
   - character: sarah-keller
     location: the-archive-school
     physical: healthy
-    emotional: quiet, watchful; shaken by the twenty years of photographs of herself she has never seen
+    emotional: quiet, watchful; shaken by the photographs; first to name the figure's impossible detail ('it kept its detail')
   - character: david-keller
     location: the-archive-school
     physical: healthy
-    emotional: restless; running every explanation for the dossiers and finding none that holds water
+    emotional: method cracked — his measurements disagreed with each other for the first time in his life; keeps a 42-row fault log
   - character: jake-mercer
     location: the-archive-school
     physical: healthy
-    emotional: calm on the surface; afraid in a new way — his own folder is the thickest and he did not open it
+    emotional: calm on the surface; insists the knocker 'is a person keeping time' — humanizing error begins; still hasn't opened his folder
 object-state:
   - artifact: alexs-key-ring
     owner: alex-voss
@@ -71,17 +71,17 @@ knowledge-state:
 
 ## Current Story State
 
-Day two of the storm. On the first night the five found the school impossibly maintained — a hand-kept library ledger dated eleven days ago, cut-back greenhouse vines, five of fifty dorm rooms made up for a letter that went to sixty. That morning they went down the service stairs off the library into the archive vaults and found post-graduation dossiers on every alumnus, current within days: relationship status, address, occupation, notable events, family ties — their own private lives filed by someone, each name carrying a percentage (Fells 88, Sarah 84, Marcus 81, David 79, Elena 73). Alex Voss's file is a twenty-year stack, addressed SITE, dated yesterday, marked 100% in fresh red ink. They have carried the folders upstairs and intend to find whoever keeps them. Nobody has said what the numbers might mean.
+Day two of the storm. On the first night the five found the school impossibly maintained — a hand-kept library ledger dated eleven days ago, cut-back greenhouse vines, five of fifty dorm rooms made up for a letter that went to sixty. That morning they went down the service stairs off the library into the archive vaults and found post-graduation dossiers on every alumnus, current within days: relationship status, address, occupation, notable events, family ties — their own private lives filed by someone, each name carrying a percentage (Fells 88, Sarah 84, Marcus 81, David 79, Elena 73). Alex Voss's file is a twenty-year stack, addressed SITE, dated yesterday, marked 100% in fresh red ink. They have carried the folders upstairs and intend to find whoever keeps them. Nobody has said what the numbers might mean. On day two David ran a forty-one-row fault log of the building and found every reading either impossibly clean or unmeasurable; Elena reported a fifth ledger line (transfer complete, 23:59); a motionless figure stood in the white-out facing the school and moved only when unobserved, keeping impossible detail at distance (Sarah's observation — never called anything but what it looked like); and at ~2:03 a.m. something knocked three times, patiently, at metronome intervals on the walkway's outer door for eleven minutes, then cut off mid-rhythm. Nobody answered it. The five now sleep together in the common room around the dead fire. Jake says it was a person; Marcus said no.
 
 ## Character State
 
 | Character | Location | Physical State | Emotional State | Knowledge |
 |-----------|----------|----------------|-----------------|-----------|
-| marcus-hayes | the-archive-school | Healthy | Wary; rattled by his own dossier (Chris as a line item); decided to find the bookkeeper | Greenhouse maintained by someone unknown; his unreported Amarillo bar fight is on file; Chris appears in his dossier |
-| elena-hayes | the-archive-school | Healthy; eye ache returned in the vaults, still unreported | Unsettled; holds the copied percentages; not yet asking about her own file's 'exposure event, age 16' | Ledger 11 days old; five rooms of fifty; map contradicts geography; dossier percentages; Alex's file dated yesterday |
-| sarah-keller | the-archive-school | Healthy | Quiet, watchful; shaken by twenty years of photographs of herself she has never seen | Ventilation stops/starts all at once; the dossiers and her percentage (84); photographed annually since nineteen |
-| david-keller | the-archive-school | Healthy | Restless; ran every explanation for the dossiers, none holds water | Storm abnormal; no power bill; his undisclosed therapy referral is in the school's file; his percentage (79) |
-| jake-mercer | the-archive-school | Healthy | Calm on the surface; afraid in a new way | His folder is the thickest in the drawer; he did not open it; still feels at home in a way that unsettles the others |
+| marcus-hayes | the-archive-school | Healthy | Wary; ordered everyone to sleep in one room after the knock; gave the no-chase/no-outer-door orders at the glass | All Ch3 knowledge plus: the figure faced the building the whole time; it moved only between observations |
+| elena-hayes | the-archive-school | Healthy; eye ache returned in the vaults, still unreported | Unsettled; abandoned redrawing the map (uses words for places now) | All Ch3 knowledge plus: fifth ledger line, transfer complete / 23:59, same upright hand |
+| sarah-keller | the-archive-school | Healthy | Watchful; shut down David's probability-narrating twice, gently and finally | All Ch3 knowledge plus: the figure kept its visual detail at impossible distance ('a photo taped over the window'); the knocker didn't talk, so it isn't like Jake's old porch behavior |
+| david-keller | the-archive-school | Healthy; two nights barely slept | Method cracked — first contradictory measurements of his life; logged it calmly, which frightened everyone more than shouting | All Ch3 knowledge plus: fans/water/loads cycle on a ~47-minute interval (drifts 30 seconds); heating 68° everywhere, delta zero; constant phantom electrical load; phone clock unreliable; 42-row fault log; knock pattern 3-pause-3, 11 min, stopped mid-rhythm |
+| jake-mercer | the-archive-school | Healthy | Insists the knocker was 'a person keeping time' — the humanizing error (Ch 14 punishes this) | All Ch3 knowledge plus: witnessed the knock; compared it to his own past porch behavior and was contradicted by Sarah |
 
 ## Object State
 
@@ -112,6 +112,12 @@ Day two of the storm. On the first night the five found the school impossibly ma
 | david-keller | His undisclosed therapy referral is in the school's file | chapter-03 |
 | marcus-hayes | Chris appears in his dossier as a family tie; his unreported Amarillo bar fight (three winters back) is filed in the school record | chapter-03 |
 | jake-mercer | His own folder exists and is the thickest in the drawer; he did not open it | chapter-03 |
+
+| david-keller | Building systems cycle on a ~47-minute interval; his own measurements contradicted each other for the first time ever | chapter-04 |
+| ALL FIVE | A motionless figure stood in the white-out facing the school, closer only when unobserved, keeping impossible detail at distance | chapter-04 |
+| ALL FIVE | Something knocked at metronome intervals on the walkway's outer door for eleven minutes, then cut off mid-rhythm; nobody answered | chapter-04 |
+| elena-hayes | Fifth ledger line: transfer complete, 23:59, same hand, same date as the others | chapter-04 |
+| jake-mercer | Believes the knocker was human; the group disagrees but nobody can prove it wasn't | chapter-04 |
 
 ## Upkeep
 

@@ -85,3 +85,12 @@ A running record of story and project decisions, newest last. One entry per deci
 - The coffee on the nightstand was brought by DAVID (he carried it up during the night). Sarah does not know this and never asks. Old implication (unknown intruder entered the room) replaced with a warmer-but-oddly-specific one: mug ring says it sat steaming a long time, thermos poured to her exact line, David's bed made up tight, no sign he slept.
 - Downstairs beat adjusted: Elena and David break off mid-sentence when Sarah enters — small shared-secret texture, POV-safe (Sarah infers, states nothing).
 - Word count updated: 3205.
+
+## 2026-10-07 — Chapter 4 drafted (David POV, "The First Echo")
+
+- Drafted Ch 4 (~3,660 words) from the arc beat "the first Echo manifests during the blizzard (Static Echo — harmless, endless)." Five beats: baseline audit → recurrence/fifth ledger line → figure at the tree line → contradictory measurements break David's method → the metronome knock + Jake-vs-Marcus argument (cliffhanger).
+- Echo law followed: never named, never explained; written per glossary usage rule (standing where no one is, kept detail at distance, knocks that aren't attacking).
+- Planted: "transfer complete / 23:59" ledger line (feeds Ch 12 re-boot logs); Fells's missing last-entry stamp (feeds Jonas thread); ~47-minute building cycle (first measurable loop signature, unnamed); thermos/kitchen mystery deepened (whoever pours it enters the shared rooms at night — ties to Ch 3 coffee beat).
+- Jake's humanizing error begins here as promised by the bible ("Jake talks to them like people").
+- Canon carried: couples' room-sharing referenced via the made-up-rooms count; David narrates probabilities when rattled (style sheet); Sarah's visual-resolution perception pays off Ch 3's "loss of resolution" theme; Marcus counts doorframes; no nicknames used.
+- Continuity state advanced to current-chapter: 4; scene card filled; word-count frontmatter set.
