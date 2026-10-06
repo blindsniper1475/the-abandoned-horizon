@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3654
+word-count: 3821
 ---
 
 # Chapter 2: The Sanctuary
@@ -178,7 +178,7 @@ They split to claim them — Marcus and Elena taking 103 together, David and Sar
 
 "That's my line," Elena said, almost smiling.
 
-Two made-up rooms stood empty — 107, midway, and 109 beyond it, their lamps burning, their beds waiting for nobody. Sarah paused outside 107 with her hand on the doorframe, as if she had half-expected someone to be in it, and then went on to 105 without a word. Nobody switched their lamps off.
+Two made-up rooms stood empty — 107, midway, and 109 beyond it, their lamps burning, their beds waiting for nobody. Elena paused outside 107 with her hand on the doorframe, as if she had half-expected someone to be in it, and then went on to 103 without a word. Nobody switched their lamps off.
 
 She put her bag down on the bed in 103 and sat on the edge of it, and the mattress took her weight without complaint, and the room was warm, and her eyes ached, and from somewhere down the gallery she heard Marcus's steady footsteps doing one more pass of the corridor before he would consent to sleep — because that was what Marcus did: he held the line of a building with his feet until the building proved itself, or didn't.
 

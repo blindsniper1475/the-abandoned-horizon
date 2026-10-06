@@ -94,3 +94,8 @@ A running record of story and project decisions, newest last. One entry per deci
 - Jake's humanizing error begins here as promised by the bible ("Jake talks to them like people").
 - Canon carried: couples' room-sharing referenced via the made-up-rooms count; David narrates probabilities when rattled (style sheet); Sarah's visual-resolution perception pays off Ch 3's "loss of resolution" theme; Marcus counts doorframes; no nicknames used.
 - Continuity state advanced to current-chapter: 4; scene card filled; word-count frontmatter set.
+
+## Continuity fix — Chapter 2 POV slip (author reread pass)
+- Author caught a mid-scene POV switch in the residential-wing passage: "Sarah paused outside 107 ... went on to 105" immediately followed by "She put her bag down on the bed in 103" (103 is Marcus & Elena's room; the surrounding scene and notebook beats are all Elena's POV).
+- Fix: changed both lines to Elena — "Elena paused outside 107 ... went on to 103." Scene stays single-POV (Elena) per locked rule. Sarah keeps her earlier dialogue beats ("Five rooms. For five people.") which are fine as observed-by-Elena.
+- Word count recomputed: Ch 2 = 3,821.
