@@ -99,3 +99,10 @@ A running record of story and project decisions, newest last. One entry per deci
 - Author caught a mid-scene POV switch in the residential-wing passage: "Sarah paused outside 107 ... went on to 105" immediately followed by "She put her bag down on the bed in 103" (103 is Marcus & Elena's room; the surrounding scene and notebook beats are all Elena's POV).
 - Fix: changed both lines to Elena — "Elena paused outside 107 ... went on to 103." Scene stays single-POV (Elena) per locked rule. Sarah keeps her earlier dialogue beats ("Five rooms. For five people.") which are fine as observed-by-Elena.
 - Word count recomputed: Ch 2 = 3,821.
+
+## Ch 4 consistency pass (author reread flagged David/Marcus discrepancies)
+- "diagnostic ... in twenty years" -> "since they were nineteen" (David/Sarah met at 19, married 5 yrs; the old line implied a 20-year marriage).
+- Room math fixed: "two made-up rooms apiece" was wrong (couples share TWO rooms total: 103 + 105, Jake has his own). Now: "slept in two made-up rooms while two more stayed lit for nobody, and Jake slept down the gallery with his own door bolted." Matches Ch 2 canon.
+- Marcus/Elena scene expanded: added David offering to brief ("Give me an hour... report"), Elena's "column" deflection, and a beat of David reading Elena's frayed state via her pen-capping tic (POV-consistent). Removed an invented "check-in couples do without thinking" line — contradicted Ch 2's locked arrangement that couples say nothing aloud about safety.
+- Kept intentionally: "twenty years of missing memory" (graduation gap, consistent w/ Ch 1-3), "funny for the first ten years" (Sarah exaggeration, voice-consistent).
+- Word count updated: 3755.

@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: day
 hook: cliffhanger
-word-count: 3661
+word-count: 3755
 ---
 
 # Chapter 4: The First Echo
@@ -44,7 +44,7 @@ He sat at the long table in the common room with the folders stacked to his left
 
 The heating system held sixty-eight degrees everywhere, floor to floor, including rooms with the doors shut and rooms with the windows single-pane and forty years old. Delta: zero. Impossible, but zero. The electrical load — he'd found the panel off the boiler room and stood there for twenty minutes reading breakers like scripture — ran steady at a draw that meant something was using power somewhere in the building, constantly, on every circuit, in amounts too small to name and too consistent to be leakage. Delta: unknown. The water pressure cycled. Not up and down like a well pump hunting. Cycled, the way a program cycles, on an interval he'd timed three times now and gotten 47 minutes, 47 minutes, and 46 and a half. Delta: minus thirty seconds, unexplained.
 
-Forty-one rows. Half of them read *zero*, which should have reassured him, because zero meant working, and working meant explicable, and explicable meant solvable. The other half read *unknown*, and *unknown* was not a number, and he could not patch a delta he couldn't measure, and here was the thing he kept circling without landing on: a building abandoned fifteen years did not hold sixty-eight degrees. A building nobody paid bills for did not run a constant load. A building with no staff did not keep its water on a timer. Every row on the pad, taken alone, had an explanation a reasonable man would accept — maintenance crew, insulation, municipal supply, timers left set by the last superintendent and never switched off. Taken together, the explanations canceled each other out, because each one required a person, and there were no people, and the five of them counted fifty dormitory doors and slept in two made-up rooms apiece while two more stayed lit for nobody, and the thermos in their room was full every morning, and nobody had ever found the kitchen that poured it.
+Forty-one rows. Half of them read *zero*, which should have reassured him, because zero meant working, and working meant explicable, and explicable meant solvable. The other half read *unknown*, and *unknown* was not a number, and he could not patch a delta he couldn't measure, and here was the thing he kept circling without landing on: a building abandoned fifteen years did not hold sixty-eight degrees. A building nobody paid bills for did not run a constant load. A building with no staff did not keep its water on a timer. Every row on the pad, taken alone, had an explanation a reasonable man would accept — maintenance crew, insulation, municipal supply, timers left set by the last superintendent and never switched off. Taken together, the explanations canceled each other out, because each one required a person, and there were no people, and the five of them had counted fifty dormitory doors and slept in two made-up rooms while two more stayed lit for nobody, and Jake slept down the gallery with his own door bolted, and the thermos in their room was full every morning, and nobody had ever found the kitchen that poured it.
 
 His phone said 9:14. His phone said no signal for eleven miles. His phone also, since yesterday, said 9:14 sometimes at what felt like noon, and he had stopped trusting it, which cost him more than he wanted to say out loud, because his whole method was timestamps, and a timestamp you couldn't trust was like a ruler that changed length between uses. So he'd gone analog. He carried the school's own wall clock in his head against the storm outside — light, dark, light, dark — and marked rows by meals instead of hours, and the method made him feel about twelve years old, and it was the best he had.
 
@@ -60,9 +60,13 @@ She came down the gallery stairs with her coat belt loose and her hair done up i
 
 "It was funny for the first ten years." She said it without heat, which somehow made it worse. "It's not a joke anymore. Don't do the dead-air one, either. I can feel you deciding not to do it."
 
-Marcus came in from the direction of the main doors at 9:40, or what he and David had agreed to call 9:40, boots dry, which they'd also started writing down — dry, damp, wet, snow-melt — because it was the only outdoor reading they could take and it hadn't varied once. He'd been checking the vestibule again. He did that now the way other men checked a lock twice. Elena followed him with her notebook open to the map page, and she didn't sit, which told David the conversation was going to be standing-up and short.
+Marcus came in from the direction of the main doors at 9:40, or what he and David had agreed to call 9:40, boots dry, which they'd also started writing down — dry, damp, wet, snow-melt — because it was the only outdoor reading they could take and it hadn't varied once. He'd been checking the vestibule again. He did that now the way other men checked a lock twice. Elena followed him with her notebook open to the map page, and she didn't sit, which told David the conversation was going to be standing-up and short. She'd slept the way all of them had slept lately, in fragments; David could see it in the way she held her pen, loose in the fist, capped, the same way Marcus held the wheel.
 
 "We're calling it the east stair," Elena said, before anyone asked, "because I'm not drawing another one. What I drew yesterday was wrong in ways I can point to, and I can't fix what I can't see, so we use words. East stair, service stairs, library, gallery, vaults."
+
+David nodded at the pad. Forty-one rows, half zeros, half unknowns, and none of it ready for a sentence yet. "Give me an hour," he said. "I'll have something you can put in a report."
+
+"You'll have something you can put in a column," Elena said, not unkindly.
 
 "Vaults plural?" David said.
 
@@ -136,7 +140,7 @@ Silence, the good kind, the kind where five people are thinking the identical th
 
 They laughed. It died mid-joke, theirs usually did now, but it got farther than most.
 
-Night came the way it had been coming — early, total, the white outside turning gray and then black without ever becoming anything you could call dusk — and David had assigned himself the cot nearest the common room fire, which he justified on the basis of the thermometer (he slept cold, the fire helped, sound discipline) and which was a lie he told so smoothly even he almost bought it, because the reason was the knock. He wanted to be the first one awake when it came back. He wanted, more precisely, to be the one who caught it in the act of existing, because catching it meant a mechanism, and mechanisms could be reasoned with, and he had not slept at all since the window, and Sarah, who had, rolled over at one point and said into the dark, without opening her eyes, "stop trying to solve it before it happens," which was the most accurate diagnostic anyone had handed him in twenty years, and he said "okay," and did not.
+Night came the way it had been coming — early, total, the white outside turning gray and then black without ever becoming anything you could call dusk — and David had assigned himself the cot nearest the common room fire, which he justified on the basis of the thermometer (he slept cold, the fire helped, sound discipline) and which was a lie he told so smoothly even he almost bought it, because the reason was the knock. He wanted to be the first one awake when it came back. He wanted, more precisely, to be the one who caught it in the act of existing, because catching it meant a mechanism, and mechanisms could be reasoned with, and he had not slept at all since the window, and Sarah, who had, rolled over at one point and said into the dark, without opening her eyes, "stop trying to solve it before it happens," which was the most accurate diagnostic anyone had handed him since they were nineteen, and he said "okay," and did not.
 
 It knocked at what his phone insisted was 2:03, and he chose to believe the phone, because belief was cheaper than the alternative.
 
