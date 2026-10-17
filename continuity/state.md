@@ -1,7 +1,7 @@
 ---
 type: continuity-state
 story: the-abandoned-horizon
-current-chapter: 4
+current-chapter: 5
 character-state:
   - character: marcus-hayes
     location: the-archive-school
