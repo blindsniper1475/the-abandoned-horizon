@@ -112,3 +112,11 @@ A running record of story and project decisions, newest last. One entry per deci
 
 ## Security note (standing rule)
 - The author's GitHub personal access token must never be written into any repo file, commit message, remote URL, or these notes. Remote is configured credential-free; pushes were done with an inline-authenticated URL only. If pushing again from a fresh session, ask the author to re-share credentials rather than looking for stored ones. Token expires ~3 months from 2026-10-07.
+
+## 2026-10-18 — Chapter 5 drafted (Jake POV, The Hallway Stretch)
+
+- Drafted Ch 5 (~2,734 words), Jake's first POV turn, per scene card and timeline (Loop 1, day 3). Beats: crew-forming baseline; Marcus's prove-the-exits assignment; the corridor measures two distances (11 out / 7 back) with identical fixture spacing; the camera/viewfinder shows ONLY the normal length — "the picture remembers the hallway being normal"; David logs it; Sarah's unnamed-physics conclusion ("it isn't the hallway, it's us walking it"); end-of-day frame + hook: Jake's tremor has silently stopped.
+- Author invention (flagged, reversible): Jake has a chronic fine tremor in his shooting hand since nineteen (doctors: constitutional) — it quietly cost him what was left of studio work (Portland darkroom), explains his film rig/bracing habits, and STOPPED at the school. This plants the retention clue via Jake personally (the building holding/giving back the "normal" version of him) and pays off against his lie ("if I keep record of a thing, it isn't really gone"). If unwanted, cut the last-third beat; the corridor plot stands alone.
+- Guardrails verified: no banned mechanism words in prose (echo/void/buffer/retention/loop/custodian grep-clean); American dialect; no nicknames; Marcus's no-flash rule honored on page; Ch 2 corridor facts reused exactly (fifty doors, two hundred yards, amber lamps, waxed floor, doorframe trick); Ch 4 knock/fault-log/thermos threads continued.
+- Also fixed: Ch 4 "twenty years of missing memory" → "a yearbook's worth of missing memory" (they don't believe memory is missing yet at this point).
+- Scene card, continuity state (current story state, character rows, knowledge table), and _index word count updated.
