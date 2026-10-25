@@ -32,5 +32,9 @@ Grounded and human before it is strange: small-town dread in the Stephen King re
 - **The rule:** the Buffer, De-Rez, retention, and loop mechanics are **never spoken aloud** in prose. They live in this bible, not on the page.
 - **Ending:** one ending only. They escape, and the world re-stabilises. No loop, no branching.
 - **Companion material:** the free-form planning notes live in the parent folder's `notes/` directory.
+- **The reader's puzzle:** the loop premise is never named on the page, but the reader must be able to assemble it by the end of Act II from seeds the characters miss. One to three catchable patterns per chapter in Act I. See style-sheet "Reader Ahead Of Character." Seed registry: `continuity/seeds.md`.
+- **POV discipline:** never Alex's POV means *never Alex's interiority, including in omniscient-seeming chapter endings*. If a chapter ending needs Alex's hope or Alex's hands, the chapter is in the wrong POV; re-stage from the registered POV's side of the wall. (Fixed in Ch 1's original closing line, 2026-10-25.)
+- **Consequential chapters:** every chapter changes the board. "They feel more uneasy" is not a change. See style-sheet "End-of-chapter contract."
+- **Friction as resource:** the five erode measurably across the book. Track in `continuity/state.md`. See style-sheet "Social Friction As Resource."
 
 

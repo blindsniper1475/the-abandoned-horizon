@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: revelation
-word-count: 3295
+word-count: 3488
 ---
 
 # Chapter 1: The Arrival
@@ -30,8 +30,8 @@ word-count: 3295
 2. **The reunion** — Marriages, jobs, the lives they built. Warmth, and underneath it the strange fact that almost nobody answered the letter. [Character: elena-hayes] [Theme: memory]
 3. **Arrival** — The school looms out of the fog: twelve towers, fused, pristine. Too sharp to be real. [Location: the-archive-school] [Arc beat: the pristine facade]
 4. **The hall** — Floor wax and old paper. Warm lights. Everyone settles. Marcus counts heads out of habit. [Character: marcus-hayes]
-5. **The flicker** — A hallway light stutters once, phosphor-brief. Elena sees it. Marcus calls it old wiring. They laugh it off. [Foreshadowing: the Buffer drops] [Arc beat: first wrongness]
-6. **Closing** — Outside, the storm hums a different note. **Hook: revelation** — the school is not empty. Someone has been expecting them.
+5. **The flicker** — A hallway light stutters once, phosphor-brief. Elena sees it. Marcus calls it old wiring. They laugh it off; the clock over the east door still reads 9:15. [Foreshadowing: the Buffer drops] [Arc beat: first wrongness]
+6. **Closing** — Marcus orders everyone to sleep in the common room; Elena undercuts him ("that's a bedtime") and they split for bedrooms anyway. **Hook: revelation** — the school is not empty; someone made up beds before five people agreed they needed them.
 
 ---
 
@@ -97,6 +97,8 @@ Inside, the heat was on.
 
 That was the first wrongness, though none of them named it yet. The air inside the entrance hall was warm — not the stale, wrapped-in-clothing warmth of a sealed building, but the live, moving warmth of a heating system running on a timer. The lights were on: not emergency strips or battery lamps, but full, warm overhead light that made the long hallway glow amber and pushed the corners back into clean shadow. The floors had been waxed recently enough to hold their shine. The air smelled of floor wax and old paper and the faint, institutional ghost of floor cleaner.
 
+The entrance hall had a clock over the door to the east wing — a big institutional thing, brass rim, black hands — and it read 9:15. Marcus looked at his watch, then back at the clock, and the clock said 9:15, and his watch said 9:15, and he had the brief, unreasonable feeling that the clock had agreed with him rather than told him anything. He filed it. He was always filing things.
+
 "It's been maintained," David said. He had put his phone away — there was no signal here anyway — and was standing very still, looking down the length of the hall. "Somebody's been maintaining this place."
 
 "Probably the foundation," Sarah said. "Sent a crew out before we arrived. Alex's people."
@@ -108,6 +110,8 @@ Marcus set the crate down and counted heads without meaning to. Five. He always 
 They found the common room on the ground floor of the central tower: a wide, high-ceilinged space with deep chairs arranged around a stone fireplace, bookshelves lining the walls, and a fire already laid and — impossibly — already lit. Someone had struck a match within the last hour. The flames were low and steady, feeding on dry hardwood.
 
 Nobody mentioned it. They all saw it, and nobody mentioned it.
+
+The fire popped — one sharp crack, the way a wet log splits — and Marcus looked at it, and then at Elena, and Elena was already looking at him, because they had both heard it and neither of them could say why it had sounded familiar. The fire had been burning, by the look of the coals, for about an hour. They had been in the building for eleven minutes. Marcus did the arithmetic and did not like the answer, and put it where he put things.
 
 Jake crossed to the fireplace and knelt by the mantel, where a row of framed photographs still stood — the school's own, dusted and straightened, class composites from decades when the halls had been loud. He studied them the way he studied everything, head tilted, patient.
 
@@ -121,9 +125,11 @@ There they were. Sixteen-year-old Sarah on the bleachers, chin on her knees, the
 
 "Alex," Jake said. "Alex took all of them. That's why he's never in any of them."
 
+David picked up the one of the computer lab and turned it over. On the back, in pencil, someone had written a date — *March 1999* — and below it, in the same hand, *room 114*. "Room 114's the boiler room now," David said. "I looked at the plans. It's been the boiler room since they built the east wing." He set the photo face-down on the table, and nobody picked it back up.
+
 The name sat briefly in the warm air between them. In every photograph, the photographer was missing — the absent eye behind every shot, the one face the collection could not contain. Marcus looked at the spread of them on the table: his children, really, though none of them would have used the word. The faces he had known before mortgages and mileage and the long, slow education of getting older.
 
-David turned over a photograph of the computer lab — banks of beige towers, cable trays overhead. "They ripped all of this out when they closed," he said. "I checked the auction records a few years back. Everything sold for scrap." He tapped the image. "Twelve towers, and that was one room. Do you know how much infrastructure it took to run this place?"
+David looked at the face-down photo a moment longer, then let it lie. "They ripped all of this out when they closed," he said. "I checked the auction records a few years back. Everything sold for scrap." He tapped the back of it without turning it over. "Twelve towers, and that was one room. Do you know how much infrastructure it took to run this place?"
 
 "More than they told us, apparently," Elena said, and her pen kept moving.
 
@@ -159,10 +165,20 @@ Marcus had seen it. He felt it in his teeth, the way you feel a dropped plate be
 
 A beat of silence. Then Jake chuckled — low, easy, unhurried — and raised his mug. "To bad lightbulbs," he said, and the tension broke, and they laughed, and Elena capped her pen, and the fire popped, and the warmth held.
 
+And then Marcus stopped laughing, because he had looked at the far end of the hallway again and the light there was steady, and the clock over the east door was still reading 9:15.
+
 They settled back into the chairs. The hallway was quiet and straight and full of amber light, and the light at the far end did not flicker again.
 
 But Marcus kept his eyes on it.
 
-And out past the walls, the white-out had stopped sounding like weather. It hummed now, low and even, like something breathing through its teeth — and somewhere in the long, straight halls of the school, a man in a maintenance coat put his hand on a ring of keys and began, again, to hope.
+"We sleep in the common room tonight," Marcus said. "All of us. Fire's low, door's locked, and nobody goes down that hallway until morning."
+
+"That's not a plan," Elena said, without looking up from her notebook. "That's a bedtime."
+
+"It's the plan I've got." He checked the outer door — locked — and the inner door — locked — and the clock over the east wing, which said 9:15, and he stood there a moment with his hand on the bolt, counting something under his breath that nobody else could hear. Then he came back to the fire and sat down and did not tell them what he'd counted.
+
+Elena wrote something in the notebook. She did not show him what.
+
+Out past the walls, the white-out had stopped sounding like weather. It hummed now, low and even, like something breathing through its teeth.
 
 

@@ -19,7 +19,7 @@ mode: ""
 date: ""
 time: night
 hook: question
-word-count: 3821
+word-count: 3750
 ---
 
 # Chapter 2: The Sanctuary
@@ -37,6 +37,12 @@ word-count: 3821
 ## Chapter Text
 
 Nobody moved for a moment after the flicker. The fire had burned down to a lattice of orange coals, and the common room had gone the color of old newsprint, and all five of them were looking down the hallway at the place where the light had failed — thirty yards off, near the east-wing door — where the amber now sat steady and innocent, as if it had never done anything but burn. "Bad lightbulb," Marcus had said. Jake had raised his mug to it. But sitting in chairs with a laugh still drying on their faces, none of them could make the phrase sound true a second time.
+
+"We sleep in the common room tonight," Marcus said. "All of us. Fire's low, doors locked, nobody goes down that hallway until morning."
+
+"That's not a plan," Elena said, without looking up from her notebook. "That's a bedtime."
+
+It was the way she said *bedtime* — flat, reporter's-voice, no joke in it — that made Sarah stand up and brush off her coat and say, reasonably, "There are bedrooms. There should be bedrooms. I'd rather be frightened in a bed than comfortable in a chair." And one by one they got to their feet, because the alternative to walking was admitting out loud what Marcus's plan really was: a man who did not want to be anywhere in the building he could not see from where he stood. Nobody said that. It was enough that Elena had written it down; you could hear the pen.
 
 "I'm not sleeping in this room," Elena said.
 

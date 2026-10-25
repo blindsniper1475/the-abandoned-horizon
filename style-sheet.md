@@ -113,6 +113,20 @@ One entry per POV character or major speaker: vocabulary, sentence length, verba
 - **Jake Mercer** (POV 5+): freelance photographer. Years in and out of rehab centers; completely clean since roughly five years ago, eleven months sober by his own chip count at story start — never preachy about it, measures time in coins and dates. Frames things — *composition*, *light*, *thirty seconds* — jokes to dissolve dread; the jokes get thinner as the book goes on. The sharpest memories of the five, and the emptiest life.
 - **Alex Voss** (never POV, mentioned until Ch 6): letter register — formal, dated, oddly courteous, faintly administrative. His warmth reads as *scripted*.
 
+### Social Friction As Resource
+
+The five are functional at story start and must **measurably erode**. Track friction the way the style sheet tracks swearing: as a resource that depletes.
+
+**Act I (Ch 1–6):** politeness intact, first cracks only. One character withholds information from the group (Elena's ache, Marcus's count, Jake's steady hands). One character undercuts another's authority in a way that is deniable as a joke.
+
+**Act II (Ch 7–14):** the cracks become visible. At least one scene where two characters are alone and say something they would not say in front of the group. At least one decision made by a subset of the group that the others discover after the fact.
+
+**Act III (Ch 15–20):** a fracture. One character acts against the group's interest, or the group splits, or someone leaves a room and does not come back for a chapter. The fracture must be *earned* by the erosion in Acts I–II — not a sudden betrayal.
+
+**Act IV (Ch 21–24):** repair or loss. The fracture either heals in a way that costs something, or it does not heal.
+
+Track the friction in `continuity/state.md` alongside character state: who is withholding what, who has noticed whom lying, who has not yet been told.
+
 ### Naming And Address Rules
 
 Verified against chapters 1–2 and locked from here forward:
@@ -137,6 +151,16 @@ The locked rule from story.md, restated as a hard filter. These words belong to 
 - Head-hopping is banned inside scenes; POV shifts happen only at chapter breaks. A non-POV character's face is external data the POV character reads — and can be wrong about.
 - Free indirect discourse is the default interior mode: no *he thought that* framing tags unless distancing is wanted for irony or comfort.
 
+### Reader Ahead Of Character
+
+The loop premise is never named on the page (see Terms). But the reader must be given **one catchable pattern per chapter** that the POV character does not catch. This is the reader's puzzle, and it is the engine that makes repetition pleasurable rather than oppressive.
+
+**What counts as a seed:** a detail that recurs in a later chapter at the same narrative moment (the thermos full at the same line every morning), a document that contains a date or name it should not (the folder dated tomorrow, the ledger entry dated yesterday), a physical object that behaves as if it has been used longer than the characters have been present (the fire already an hour old, the snow already swept), or a count that returns a different number on a second pass without anyone remarking on it.
+
+**What does not count:** a detail the POV character notices and comments on. That is a clue, not a seed — clues are for the characters, seeds are for the reader. A seed must be deniable: the character notices, files it, and moves on. The reader notices, files it, and does not move on.
+
+**Budget:** one to three seeds per chapter in Act I; two to four in Act II; the reader should be able to assemble the premise by the end of Act II without any character having said the word *loop*.
+
 ## Watch List
 
 Why each `watch-words` entry is in the frontmatter, and what a rising count means. `story prose` counts these per chapter; the budgets below are Act I numbers — tighten them again when Act II drafts exist.
@@ -149,6 +173,10 @@ Why each `watch-words` entry is in the frontmatter, and what a rising count mean
 
 **Filter words to keep out without tooling help:** *eerie, eerie silence, dread settled, spine tingled, cold blood, unspeakable, ancient evil, shadow moved*. Gothic stock — banned outright in the Voice section; add any that recur to `watch-words` rather than arguing with them in notes.
 
+- **loop** — banned in prose (see Terms), but *loop-adjacent* words are the ones that slip: *again*, *still*, *same*, *returned*, *repeated*. These are ordinary English and cannot be banned, but a rising count of *again* and *still* in a chapter is a flag that the narration is telling the reader the premise instead of seeding it. Budget: track per chapter, no hard cap, but flag any chapter where *again* appears more than four times. Current: Ch 1 = 4 ✓ (trimmed from 5 during the seed-insert pass); re-measure every revision.
+- **count / counted / counting** — load-bearing (Marcus's habit), but the density is the thing. Budget: ≤6 per chapter for Marcus POV; ≤2 for other POVs. A chapter where every character is counting is a chapter that has lost its POV discipline.
+- **seed candidates** — not a word to ban, a list to maintain: *clock*, *thermos*, *fire*, *ledger*, *folder*, *photograph*, *door*, *count*. Every appearance of one of these should be checked against the seed registry (`continuity/seeds.md`). Not every appearance is a seed; every seed is an appearance.
+
 **Baseline counts recorded 2026-10-07** (prose sections of chapters 1–2): wrongness 2, flatness 0, seemed 0, felt 7. Re-measure after every revision pass so drift is visible against the budget, not against memory.
 
 ## Chapter Mechanics
@@ -158,7 +186,16 @@ House rules for the chapter files themselves, so every draft is built the same w
 - **Length target:** 3,000–4,500 words of prose per chapter (current baseline: Ch 1 = 3,067; Ch 2 = 3,558). Twenty-four chapters at that band lands the book around 80–95k. One scene card per chapter currently — a chapter may hold more scenes than its card lists if the beats demand it, but update `scenes/` to match before drafting.
 - **Frontmatter:** fill every field before drafting; no empty strings left behind. `time:` takes one of `dawn`, `day`, `dusk`, `night`; `date:` stays empty in-loop (the characters don't track calendar dates) unless a document pins one; `mode:` is unused — delete it or define it, don't leave blanks spreading. `hook:` takes `question` or `revelation` and the hook must land in the final third of the chapter.
 - **Outline section:** the numbered beat list stays in the file after drafting — it's the revision spine, not scaffolding to delete. Beat tags (`[Location:] [Character:] [Theme:] [Arc beat:] [Foreshadowing:]`) are required per beat and must match what the prose actually contains.
-- **End-of-chapter contract:** every chapter ends on its registered hook and on the group's physical position changing (they move, decide, or are moved). No chapter may end in static conversation — that's how serial momentum dies.
+- **End-of-chapter contract:** every chapter ends on its registered hook *and* on a **consequential change** — a decision that costs something, a revelation that reframes the past, or a reversal that changes the group's plan. Physical movement alone does not satisfy the contract. Interiority alone does not satisfy the contract. A character noticing something and going to sleep is not a turn; it is a pause. If the last beat can be removed without changing what the next chapter can do, the chapter is not finished.
+
+### Escalation And Density
+
+Each chapter must contain **two escalating beats**, not one beat stretched. The second beat must change the *kind* of problem, not just deepen the first. A geometry anomaly followed by another geometry anomaly is one beat twice; a geometry anomaly followed by a social fracture is two beats.
+
+The escalation ladder across the book should vary the *category* of wrongness, not just its intensity. Categories available: **space** (geometry, distance, maps), **time** (clocks, repetition, aging), **record** (folders, ledgers, photographs, documents), **person** (Alex's absence, the shape in the storm, the knock), **body** (Elena's ache, Jake's tremor, sleep), **group** (disagreement, secrecy, someone acting alone). No category may appear twice in consecutive chapters.
+
+**The density test:** summarize the chapter as "X happens, and as a result Y changes." If Y is "they feel more uneasy," the chapter is not dense enough.
+
 - **Word count maintenance:** update `word-count:` (prose section only, excluding frontmatter/outline headings) in the same commit as the edit; registry totals in `chapters/_index.md` come from `story wordcount . --write`.
 
 ## Session Checklist
@@ -171,14 +208,15 @@ What "done" means after any drafting or revision session, in order:
 4. `story prose` — dialect pairs, watch-word budgets vs. the Watch List baselines, sample comparison against Ch 1–2.
 5. New clues/questions/promises get their own files + registry rows; resolved ones get closed, not deleted.
 6. Decisions logged in `notes/decisions.md` (what, when, why — newest last).
-7. Commit with a message naming the chapter(s) touched.
+7. **Seed check:** for each new or revised chapter, identify (a) the seeds planted, (b) the seeds paid off, (c) the seeds still open. Update `continuity/seeds.md`. A chapter with zero seeds planted in Act I is a chapter that is not pulling its weight; a chapter with zero seeds paid off in Act III is a chapter that is not paying its debts.
+8. Commit with a message naming the chapter(s) touched.
 
 ## Open Style Questions
 
 Deliberately unsettled; each needs an author decision, not a guess:
 
-- **Epigraphs:** should chapters open with quoted fragments (ledger lines, letter excerpts, Abscissa paperwork)? Strong King habit, and this book has the artifacts for it — but it risks pre-explaining. Recommendation: allow only *after* Ch 6, never for POV-critical reveals. Decide by Act II.
-- **Section breaks inside chapters:** asterism/dinkus vs. running continuous prose (current practice: continuous). If chapters grow past ~4,000 words with location changes, adopt `* * *`.
+- **Epigraphs:** *Resolved (author, 2026-10-25).* Allow ledger/letter/document fragments as chapter epigraphs from Ch 6 onward, never for POV-critical reveals. They are themselves seeds — the reader can catch the pattern in the epigraphs before the characters catch it in the prose.
+- **Section breaks inside chapters:** *Resolved (author, 2026-10-25).* Adopt `* * *` for chapters over 3,500 words that contain a location change. Current practice (continuous) is fine for chapters that stay in one room.
 - **Jake's photographs:** do images ever appear as described captions set off from prose? Currently everything is narrated. If captioned artifacts enter, they need their own formatting rule here first.
 - **Alaska place names:** keep real geography (Anchorage, the coast road) or fictionalize alongside the school? Chapters 1–2 stay vague (*nine hours north*, *the coast*). Lock one way before Ch 6's gatekeepers bring outsiders into range.
 - **Chapter 24 register:** Re-Stabilization is epilogue-shaped — does it keep the full voice discipline (still King/Lovecraft blend, still no explanation) or is a slight warmth shift allowed after they escape? Decide before outlining it; recommend keeping the bans and letting only the weather change.
