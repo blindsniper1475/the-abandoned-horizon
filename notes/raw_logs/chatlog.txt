@@ -1,0 +1,157 @@
+# 📜 THE ABANDONED HORIZON - MASTER PLANNING DOCUMENT
+**Project:** *The Abandoned Horizon*
+**Universe:** Digital Decay
+**Genre:** Liminal Space / Siege / Survival Horror
+**Setting:** Coastal Academy (The Archive School) - Alaska
+
+---
+
+## 🌌 THE UNIVERSE: DIGITAL DECAY
+*The overarching lore that defines the laws of reality in this story.*
+
+### 1. The Void & The Rot
+- **The Void:** A state of "De-Rez" where reality loses its resolution and becomes "Low-Bit."
+- **The Rot:** A corruption of reality that manifests as **Phosphor Green (#0 aFF41)** glitches, non-Euclidean geometry, and "Data-Rot."
+- **The Archive:** A metaphysical layer where the world "discards" what it no longer wants.
+
+### 2. Abscissa Industries
+- A corporate-occult conglomerate that views human consciousness as "data" to be "optimized."
+- They utilize "Synthesis" to create protected realities and "Archives" to store discarded ones.
+
+### 3. The Buffer & De-Rez
+- **The Buffer:** A spiritual/digital barrier that holds reality together.
+- **De-Rez:** The process where the "Buffer" fails, and the world literally "melts" into a liminal, low-resolution state.
+
+### 4. The Noise & Retention
+- **The Noise:** The Void's signal—the static of it. What they hear as the "White-Out" blizzard is the Noise pressing against the school.
+- **Retention:** Every person is scored on their **compatibility with the Void / the Noise** (%). The higher the number, the longer they hold before the Void takes them.
+  - **The five sit at 73–88%.**
+  - **Alex is 100%**—bound to the place he can never leave.
+
+---
+
+## 🏔️ THE SETTING: THE ARCHIVE SCHOOL (ALASKA)
+*The "Discarded" sister site to the Pine Valley Synthesis.*
+
+- **Location:** A sprawling, brutalist **compound of ~12 tall buildings** (10–12 stories each) packed into four acres on the rugged, fog-heavy coast of Alaska—including the **vertical greenhouse**, a **separate enormous Library**, academic blocks, dormitories, and kitchen/staff/living quarters—all fused by enclosed corridors because the storms never stop.
+- **The Sanctuary:** The school was designed as a functional community shelter. In the event of extreme weather (The White-Out), the town's population would retreat into the massive sub-basement.
+- **The Sub-Basement:** A massive subterranean level spanning the entire four-acre footprint, containing the living quarters/dorms and the "Deep Archive."
+- **The Siege (The Blizzard):** A supernatural blizzard (The White-Out) acts as a physical cage. It is a "White Noise" of the Void, preventing escape.
+- **The Echoes (The Monsters):** Entities born from the Rot. They are the "Discarded" pieces of reality trying to break into the school's "Safe Zone."
+  - **Static Echoes:** Frozen in a single moment, repeating one action forever. Harmless alone, relentless in number.
+  - **Corrupted Echoes:** Aggressive, distorted versions of discarded people. They hunt.
+  - **Buffer-Breakers:** Large, non-Euclidean entities that warp the geometry around them. They erode rather than hunt.
+
+---
+
+## ✉️ THE LETTER & THE MEMORY
+
+### The Invitation
+- **Alex** sent out the reunion letter—a **20th-anniversary invitation** to the entire graduating class.
+- Every surviving classmate received one. **Only the five came.** The others simply didn't show.
+- None of them can clearly say why they came. They only know they felt they had to.
+
+### Why They Can't Remember (The Blurriness)
+Two things compound:
+1. **Suppression:** Each of them buried parts of it themselves. Some doors they closed on purpose.
+2. **The Place:** Anyone who **leaves** the school—the town—**automatically forgets** what happened there. It is a property of the location. Walk away, and it fades.
+- What remains is not true amnesia but **fragments**: snippets of memory that are **jumbled and out of order**, like a shuffled deck. A face, a hallway, a voice—disconnected from when or where it happened.
+
+---
+
+## 👥 THE ALPHA SUBJECTS (THE FRIENDS)
+*The "Discarded" subjects who were sent here to be "Archived."*
+
+| Name | Role | Background | Personality & Traits |
+|---|---|---|---|
+| **Marcus Hayes** | The Protector | Married to Elena, Texas Ranger. Retention **81%**. | Stoic, steady, and authoritative. The "anchor" of the group. |
+| **Elena Hayes** | The Record Keeper | Married to Marcus, Online Reporter. Retention **88%**. | Meticulous, observant, and intellectually curious. |
+| **Sarah Keller** | The Observer | Married to David, Model/Funder (Oregon). Retention **76%**. | Poised, aesthetic-focused, and introspective. |
+| **David Keller** | The Analyst | Married to Sarah, Systems Analyst (Oregon). Retention **73%**. | Logical, quick-witted, and prone to over-analyzing. |
+| **Jake Mercer** | The Witness | Hippie / Freelance Photographer. Retention **85%**. | Easy-going, empathetic, and "vibey." |
+
+---
+
+## 🌀 THE CORE PLOT: THE BUFFER FAILURE
+*The narrative arc of the 24-chapter story.*
+
+- **The Secret:** The friends were "Discarded" subjects. They are returning to the school that was meant to be their "End."
+- **The Alex Paradox:** **Alex Voss** (Retention **100%**) was the **Custodian**. Caught "In-Between" dimensions, he is trying to "Re-Boot" the school to save the friends—and grows **more desperate with every loop**.
+- **The Cost of a Re-Boot:** Every re-boot makes the school **more corrupted**. Each one pushes the Buffer down another notch, and the distortions become **more visible each time**—geometry slips further, colors bleed, more of the Rot shows through. Alex isn't fixing anything; he's hastening the collapse.
+- **The Loops:** The friends live the siege **~10–12 times**—each loop a re-boot, each one a little different. **Resetting gets harder** every time, until around the **second-to-last loop**, when **remembering the earlier loops** finally makes it *easier*. Remembering across the loops is what lets them escape.
+  - **How they're shown:** **Ch 1 = the first loop (in full)**; the middle loops are **compressed**; the **last couple chapters = the final loop (in full)**.
+  - **What carries over:** **anything digital survives fully** (files, records, and **Jake's photos**); **key items** come through (key cards, keys, photographs, notes); **memories carry only partially**. Their notes and photos become the memory they can't hold.
+  - **Injuries:** **critical injuries carry over but are less severe each loop**; **minor damage disappears completely**.
+  - **Alex:** grows **more desperate** with every cycle.
+- **The Time Inside:** It feels like **three months** to them—that's all they remember. Outside, **four and a half years (4.5)** pass before they are completely free.
+- **The Archive Records:** They find **five dossiers** (their own) plus the **roster**—each file holds personal details, a physical description, and a **Retention** score. **The five sit at 73–88%; Alex is 100%.**
+- **The Ticking Clock:** Over 24 chapters, the "Buffer" drops from 100% to 0%. The school physically melts as the blizzard and the "Echoes" press in.
+
+### The Growing Duress (the body fails too)
+The decay is not only in the building—it is in **them**. The drop follows one arc:
+
+1. **The Chill** — it begins like a **flu**. Headaches, chills, nausea, fatigue, ringing ears. Everyone feels like they're coming down with something.
+2. **The Drift** — **disorientation**. Losing time, words arriving wrong, recent and old events blurring together.
+3. **The Fracture** — **fragmented memory**. Can't hold onto recent events; names go, then faces.
+4. **The Forgetting** — **forgetfulness**. They lose themselves—who they are, why they came, who the others are.
+
+*(Full table with world-state + body-state in `notes/01_WORLD_LORE.md`. Per-character signatures in `notes/03_CHARACTERS.md`. Never speak the percentage in the prose.)*
+
+---
+
+## ⏳ THE 24-CHAPTER ROADMAP: THE SIEGE
+*A slow-burn progression of decay and siege.*
+
+### **ACT I: THE PRISTINE BUFFER (Ch 1-6)**
+*Theme: Nostalgia, Isolation, and the "Pristine" facade.*
+- **Ch 1: The Arrival:** Arrival at the school during the first blizzard. The school is "Pristine."
+- **Ch 2: The Sanctuary:** Settling into the school. The atmosphere is eerie but peaceful.
+- **Ch 3: The Archive Vaults:** The first discovery of the "Discarded" records.
+- **Ch 4: The First Echo:** A "Corrupted Echo" manifests during the blizzard.
+- **Ch 5: The Hallway Stretch:** First experience of Non-Euclidean geometry.
+- **Ch 6: The Gatekeepers:** They find the records of the "Custodian" (Alex).
+
+### **ACT II: THE EROSION (Ch 7-12)**
+*Theme: The "De-Rez" begins. The "Buffer" starts to crack.*
+- **Ch 7: The First Crack:** The "De-Rez" begins. First "Phosphor Green" glitches appear.
+- **Ch 8: The Pool (The Data Sink):** They see the "De-Rez" of the town in the water.
+- **Ch 9: The Siege Intensifies:** The "Echoes" become more aggressive. The "White-Out" storm grows louder.
+- **Ch 10: The Greenhouse (The Core):** The "Rot" is strongest here.
+- **Ch 11: The Memory Fracture:** The "Hard-Coded" memories start to fail.
+- **Ch 12: The Clock Tower:** They find the "Custodian's" logs. They learn about the "Re-Boot."
+
+### **ACT III: THE FRACTURE (Ch 13-18)**
+*Theme: The "Buffer" fails. The school becomes a labyrinth.*
+- **Ch 13: The Buffer Failure:** The "Buffer" hits 50%. The school begins to "melt."
+- **Ch 14: The Echo Chamber:** The "Echoes" enter the school. The siege becomes a fight for survival.
+- **Ch 15: The Non-Euclidean Maze:** The school's geometry becomes impossible to navigate.
+- **Ch 16: The Archive's Shadow:** They find a "Hidden Archive"—the secrets of the "Discarded" subjects' lives.
+- **Ch 17: The Void Signal:** The "White-Out" storm reaches its peak.
+- **Ch 18: The Gate Collapse:** They witness the "De-Rez" of the town's perimeter.
+
+### **ACT IV: THE FINAL DE-REZ (Ch 19-24)**
+*Theme: The Collapse—and the Escape.*
+- **Ch 19: The Pool's Depths (The De-Rez):** The "Buffer" hits 10%. They enter the pool for the final "Data Sink."
+- **Ch 20: The Final De-Rez:** The school's resolution hits zero. The "Low-Bit" geometry takes over.
+- **Ch 21: The Loss:** Jake is "Deleted" as the school's "Buffer" fails.
+- **Ch 22: The Void Floods In:** The school is no longer a school; it's a "Buffer" of the Void.
+- **Ch 23: The Escape:** There is only one way out—through. They commit to the escape.
+- **Ch 24: Re-Stabilization:** They get out. The world comes back—**re-stabilized**.
+
+> **ENDING (LOCKED): One ending only.** They **escape**, and everything is **re-stabilized**. No "remain Discarded" branch. The old "Cycle Restarts" ending is cut—**though the story itself contains loops** (see The Loops).
+
+---
+
+## 🎙️ ATMOSPHERIC STANDARDS
+- **Visuals:** Phosphor Green (#00FF41) for glitches. Non-Euclidean geometry. "Low-Bit" resolution.
+- **Audio:** The "White-Out" blizzard (White Noise).
+- **Voice:** [VOICE: Void] (Deep/Reverb), [VOICE: Abscissa] (Crystalline/AI), [VOICE: Johnny] (Glitchy/Fast), [VOICE: Malachi] (Southern Gothic).
+
+---
+
+## ✍️ PROSE STANDARDS
+- **Tone:** Grounded, literary horror in the vein of Stephen King—the supernatural grows out of the mundane (old marriages, stale friendships, a small town at the edge of the map) before it turns cosmic.
+- **Rule:** Keep mechanics terms (Buffer, De-Rez, Resolution) OUT of the narrative prose. Show them through the senses instead—flickers, stutters, colors bleeding, sound dropping out.
+- **Rule:** Do not call the school "the Archive" in the narrative. It is a school, a shelter, a place.
+- **Rule:** No national roll-call of states in the prose. The lives they left behind are "the lives they left behind."
+
