@@ -24,3 +24,13 @@ node "$env:USERPROFILE\.agents\skills\story-maintenance\scripts\story.js" <comma
 ```
 
 Useful commands: `validate`, `wordcount --write`, `links`, `continuity`, `prose`, `next`.
+
+## Shared Universe
+
+The Abandoned Horizon is part of the **Digital Decay Universe**, a shared world whose hub is the vault repo `blindsniper1475/digital-decay-universe` (this repo is linked there as `03_Narrative_Arcs/The_Abandoned_Horizon/`). Sister stories:
+- **Digital Decay** (survival horror game — Emma Cross, Pine Valley, Ohio, 2006)
+- **Blackwood Valley** (analog-horror web series — Washington, 2013)
+- **Shy Neko** (web series — Tokyo, 2168 onward)
+- **Aiko** (live AI VTuber — Detroit, 2125 onward)
+
+How this story ties to Abscissa Industries and the rest of the world is still open. Universe-level facts live in the vault's `00_Canon/` and `05_World/`; see `AGENTS.md`.
