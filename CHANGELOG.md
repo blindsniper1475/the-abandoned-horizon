@@ -4,6 +4,12 @@ Every change, newest first.
 
 ---
 
+## 2026-11-10 - Dates and the Abscissa tie
+
+### Changed
+- `plot/timeline.md`: new "In-universe dates" section. The user approved that the five get out in **2031**; derived from it: the reunion trip in winter 2026-27, the town archived and the class graduating about 2006-07.
+- `README.md`, `worldbuilding/factions/abscissa-industries.md`: the town was one of Abscissa's **early tests of the Archive**, the same method that files most of humanity in 2035 (vault audit D26).
+
 ## 2026-11-10 - Joins the shared universe as a linked story
 
 ### Added

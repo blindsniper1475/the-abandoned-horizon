@@ -33,4 +33,4 @@ The Abandoned Horizon is part of the **Digital Decay Universe**, a shared world 
 - **Shy Neko** (web series — Tokyo, 2168 onward)
 - **Aiko** (live AI VTuber — Detroit, 2125 onward)
 
-How this story ties to Abscissa Industries and the rest of the world is still open. Universe-level facts live in the vault's `00_Canon/` and `05_World/`; see `AGENTS.md`.
+**The tie (settled 2026-11-10):** the town was one of Abscissa Industries' early tests of the **Archive**, processed around 2006-07. In 2035 Abscissa does the same to most of humanity (the Holistic Integration). The five get out in **2031**, four years before the Collapse. Universe-level facts live in the vault's `00_Canon/` and `05_World/`; see `AGENTS.md`.
