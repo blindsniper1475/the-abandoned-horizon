@@ -36,3 +36,7 @@ Abscissa has no antagonist's role to play — it is not pursuing the five. That 
 
 > *(Open: decide whether Abscissa appears on the page at all, or remains purely an institutional shadow.)*
 
+## In the shared universe (2026-11-10)
+
+This town is one of Abscissa's **early Archive tests** (about 2006-07). In 2035 the same method, scaled up as the Holistic Integration, files most of humanity into the Archive. See the vault's `05_World/World_History.md` and audit D24 and D26.
+
