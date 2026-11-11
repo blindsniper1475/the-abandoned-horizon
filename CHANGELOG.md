@@ -4,6 +4,10 @@ Every change, newest first.
 
 ---
 
+## 2026-11-11 - Pointer to the vault's shared 06_Resources
+
+- `AGENTS.md`: new line pointing to the vault's `06_Resources/` (AI tools and licences, music tools, free asset sources, licence log), so this project uses the shared lists.
+
 ## 2026-11-10 - Dates and the Abscissa tie
 
 ### Changed

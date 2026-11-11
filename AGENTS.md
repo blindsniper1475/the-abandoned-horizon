@@ -10,6 +10,7 @@ This story is one of several set in the **Digital Decay Universe**, a shared wor
 - **This repo owns its own story.** Characters, episodes or chapters, and local places are decided here.
 - **Invented names:** reuse the universe's invented companies, products and places from the vault's `00_Canon/Universe_Objects_and_Brands.md`, and add any new ones there. **No real brands** in canon; invent copyright-free ones.
 - **A read-only copy** of the vault's Master Timeline is in `universe_snapshot/`. Re-copy it when the vault's version changes.
+- **Shared tools and licences:** the vault's `06_Resources/` holds what every project uses: `AI_Tools_and_Licences.md` (which AI tools are commercially safe), `Music_Tools_and_Licences.md`, `Free_Asset_Sources.md` (free sound effects, music, fonts, textures) and `Licence_Log.md` (log every downloaded asset there). Check it before picking a tool; add new tool research there, not here.
 - **Sister stories:** Digital Decay (Emma Cross, Pine Valley, Ohio, 2006), Blackwood Valley (Washington, 2013), The Abandoned Horizon (Alaska), Shy Neko (Tokyo, 2168 onward) and Aiko (Detroit, 2125 onward). Connections are Easter eggs unless the vault says otherwise.
 
 ## Workspace rules
