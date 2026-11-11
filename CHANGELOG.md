@@ -4,6 +4,10 @@ Every change, newest first.
 
 ---
 
+## 2026-11-11 - Daily chat log
+
+- `AGENTS.md`: the end-of-day rule now also asks for the day's chat log in the vault's `07_Daily_Summaries/`.
+
 ## 2026-11-11 - Daily summaries
 
 - `AGENTS.md`: new rule to add this project's part to the vault's `07_Daily_Summaries/YYYY-MM-DD.md` at the end of each working day. Today's summary: `07_Daily_Summaries/2026-11-11.md`.
