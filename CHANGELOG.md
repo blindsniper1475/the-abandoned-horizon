@@ -4,6 +4,12 @@ Every change, newest first.
 
 ---
 
+## 2026-11-17 - Now a sibling of the vault, not a submodule
+
+- The Digital Decay vault's migration (its `MIGRATION_PLAN.md`) moved this repo out of the vault: it now sits beside it in `01_Shared_Universes/`, and the vault is `../Digital_Decay`. The vault keeps a pointer note instead of a submodule.
+- There is no push order any more: this repo is committed and pushed on its own.
+- Changed: `AGENTS.md`.
+
 ## 2026-11-11 - Daily chat log
 
 - `AGENTS.md`: the end-of-day rule now also asks for the day's chat log in the vault's `07_Daily_Summaries/`.

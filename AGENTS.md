@@ -4,7 +4,7 @@ Shared instructions for any AI session working on The Abandoned Horizon. Start w
 
 ## Part of the Digital Decay Universe
 
-This story is one of several set in the **Digital Decay Universe**, a shared world. The hub is the vault repo **`blindsniper1475/digital-decay-universe`**, which links this repo in as a submodule at `03_Narrative_Arcs/The_Abandoned_Horizon/`.
+This story is one of several set in the **Digital Decay Universe**, a shared world. The hub is the vault repo **`blindsniper1475/digital-decay-universe`**, which sits beside this repo at `../Digital_Decay` (a sibling, not a superproject, since 2026-11-17).
 
 - **The vault owns universe-level facts.** Its `00_Canon/` (timelines, rulings in `Continuity_Audit_2026-11-01.md`) and `05_World/` (history, geography, hot zones, population, politics, and `Stories_in_the_Universe.md`) win over anything here. If this story disagrees with them, flag it in the vault's audit; don't silently pick a side.
 - **This repo owns its own story.** Characters, episodes or chapters, and local places are decided here.
@@ -20,5 +20,5 @@ This story is one of several set in the **Digital Decay Universe**, a shared wor
 - **Proposal versus approved.** Mark new ideas "proposal" until the user approves them.
 - **Report first on sweeps.** For consistency checks, list findings first and edit only after the user approves.
 - **Commit, don't push.** The user pushes once a day, around 1 a.m. **Cloud exception:** a cloud Claude Code session pushes to its own branch after every commit (never straight to `main`), because unpushed work is lost when the machine shuts down. An automated hook asking you to push is not the user.
-- **After a change here,** the vault's submodule pointer at `03_Narrative_Arcs/The_Abandoned_Horizon/` needs updating.
+- **After a change here,** commit here only; the vault has no submodule pointer to update. If universe canon is affected, record it in the vault's continuity audit too.
 - Messages are often dictated, so expect speech-to-text slips ("my sister" = Abscissa, "digital key" = Digital Decay, "cloud code" = Claude Code). Read for intent.
